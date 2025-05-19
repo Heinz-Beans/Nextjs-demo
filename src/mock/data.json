@@ -1,0 +1,1631 @@
+[
+  {
+    "mapName": "de_ancient",
+    "firstTeam": {
+      "name": "MONTE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/2tc9n4fHkiRIX2FiJSkhgt.png?ixlib=java-2.1.0&w=100&s=35b0f1f1725e21bc55bb9a3f6edb344e"
+    },
+    "secondTeam": {
+      "name": "NAVI",
+      "fullName": "Natus Vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+    },
+    "result": {
+      "firstTeam": 16,
+      "secondTeam": 12
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "Woro2k",
+          "kills": 23,
+          "deaths": 12,
+          "adr": 83.17
+        },
+        {
+          "name": "demqq",
+          "kills": 24,
+          "deaths": 16,
+          "adr": 79.55
+        },
+        {
+          "name": "sdy",
+          "kills": 8,
+          "deaths": 11,
+          "adr": 75.91
+        },
+        {
+          "name": "br0",
+          "kills": 15,
+          "deaths": 14,
+          "adr": 107.73
+        },
+        {
+          "name": "kRaSnaL",
+          "kills": 24,
+          "deaths": 11,
+          "adr": 61.63
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "s1mple",
+          "kills": 18,
+          "deaths": 17,
+          "adr": 107.01
+        },
+        {
+          "name": "b1t",
+          "kills": 24,
+          "deaths": 18,
+          "adr": 110.91
+        },
+        {
+          "name": "electroNic",
+          "kills": 25,
+          "deaths": 18,
+          "adr": 92.82
+        },
+        {
+          "name": "jL",
+          "kills": 22,
+          "deaths": 20,
+          "adr": 86.56
+        },
+        {
+          "name": "IM",
+          "kills": 13,
+          "deaths": 17,
+          "adr": 106.33
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_ancient",
+    "firstTeam": {
+      "name": "C9",
+      "fullName": "Cloud9",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c"
+    },
+    "secondTeam": {
+      "name": "NIP",
+      "fullName": "Ninjas in Pyjamas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=100&s=95466e17ba2af2a72ec28bd1af66ceee"
+    },
+    "result": {
+      "firstTeam": 11,
+      "secondTeam": 13
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "sh1ro",
+          "kills": 16,
+          "deaths": 15,
+          "adr": 83.86
+        },
+        {
+          "name": "Ax1Le",
+          "kills": 18,
+          "deaths": 17,
+          "adr": 95.06
+        },
+        {
+          "name": "HObbit",
+          "kills": 11,
+          "deaths": 20,
+          "adr": 98.26
+        },
+        {
+          "name": "electroNic",
+          "kills": 25,
+          "deaths": 8,
+          "adr": 80.99
+        },
+        {
+          "name": "Perfecto",
+          "kills": 11,
+          "deaths": 10,
+          "adr": 56.24
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "REZ",
+          "kills": 15,
+          "deaths": 8,
+          "adr": 92.95
+        },
+        {
+          "name": "Brollan",
+          "kills": 20,
+          "deaths": 14,
+          "adr": 118.15
+        },
+        {
+          "name": "aleksib",
+          "kills": 21,
+          "deaths": 20,
+          "adr": 104.0
+        },
+        {
+          "name": "es3tag",
+          "kills": 24,
+          "deaths": 8,
+          "adr": 80.87
+        },
+        {
+          "name": "headtr1ck",
+          "kills": 25,
+          "deaths": 12,
+          "adr": 65.44
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_nuke",
+    "firstTeam": {
+      "name": "ASTRALIS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+    },
+    "secondTeam": {
+      "name": "NAVI",
+      "fullName": "Natus Vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+    },
+    "result": {
+      "firstTeam": 14,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "device",
+          "kills": 17,
+          "deaths": 15,
+          "adr": 76.4
+        },
+        {
+          "name": "blameF",
+          "kills": 13,
+          "deaths": 19,
+          "adr": 111.55
+        },
+        {
+          "name": "Buzz",
+          "kills": 14,
+          "deaths": 10,
+          "adr": 79.48
+        },
+        {
+          "name": "Staehr",
+          "kills": 10,
+          "deaths": 8,
+          "adr": 69.37
+        },
+        {
+          "name": "b0RUP",
+          "kills": 21,
+          "deaths": 12,
+          "adr": 88.71
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "s1mple",
+          "kills": 8,
+          "deaths": 10,
+          "adr": 95.95
+        },
+        {
+          "name": "b1t",
+          "kills": 13,
+          "deaths": 14,
+          "adr": 114.49
+        },
+        {
+          "name": "electroNic",
+          "kills": 9,
+          "deaths": 9,
+          "adr": 86.77
+        },
+        {
+          "name": "jL",
+          "kills": 11,
+          "deaths": 9,
+          "adr": 115.85
+        },
+        {
+          "name": "IM",
+          "kills": 16,
+          "deaths": 12,
+          "adr": 77.85
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_mirage",
+    "firstTeam": {
+      "name": "OG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VZHA__RIJY6gisB-l6HfiO.png?ixlib=java-2.1.0&w=100&s=2ef53aec0eec6572ba50ed419222d4e5"
+    },
+    "secondTeam": {
+      "name": "VITALITY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=100&s=a0731380d1075205aadb30905a49da55"
+    },
+    "result": {
+      "firstTeam": 11,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "F1KU",
+          "kills": 23,
+          "deaths": 8,
+          "adr": 72.49
+        },
+        {
+          "name": "NEOFRAG",
+          "kills": 8,
+          "deaths": 16,
+          "adr": 63.67
+        },
+        {
+          "name": "nexa",
+          "kills": 8,
+          "deaths": 17,
+          "adr": 114.12
+        },
+        {
+          "name": "flameZ",
+          "kills": 17,
+          "deaths": 8,
+          "adr": 72.29
+        },
+        {
+          "name": "regali",
+          "kills": 9,
+          "deaths": 12,
+          "adr": 90.4
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "ZywOo",
+          "kills": 13,
+          "deaths": 8,
+          "adr": 113.25
+        },
+        {
+          "name": "apEX",
+          "kills": 15,
+          "deaths": 8,
+          "adr": 117.28
+        },
+        {
+          "name": "flameZ",
+          "kills": 20,
+          "deaths": 20,
+          "adr": 77.72
+        },
+        {
+          "name": "Spinx",
+          "kills": 15,
+          "deaths": 15,
+          "adr": 63.93
+        },
+        {
+          "name": "Magisk",
+          "kills": 24,
+          "deaths": 10,
+          "adr": 77.13
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_overpass",
+    "firstTeam": {
+      "name": "SPIRIT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ywdn4tmAvXfllLeV2SkkvF.png?ixlib=java-2.1.0&w=100&s=e441b77b1cafbca20ba9f667caca56f4"
+    },
+    "secondTeam": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "result": {
+      "firstTeam": 14,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "donk",
+          "kills": 14,
+          "deaths": 11,
+          "adr": 87.42
+        },
+        {
+          "name": "chopper",
+          "kills": 11,
+          "deaths": 13,
+          "adr": 65.64
+        },
+        {
+          "name": "magixx",
+          "kills": 9,
+          "deaths": 10,
+          "adr": 96.3
+        },
+        {
+          "name": "zont1x",
+          "kills": 12,
+          "deaths": 16,
+          "adr": 68.92
+        },
+        {
+          "name": "artfr0st",
+          "kills": 24,
+          "deaths": 9,
+          "adr": 91.84
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "frozen",
+          "kills": 22,
+          "deaths": 15,
+          "adr": 86.16
+        },
+        {
+          "name": "xertioN",
+          "kills": 22,
+          "deaths": 12,
+          "adr": 63.25
+        },
+        {
+          "name": "torzsi",
+          "kills": 23,
+          "deaths": 20,
+          "adr": 85.13
+        },
+        {
+          "name": "Jimpphat",
+          "kills": 11,
+          "deaths": 19,
+          "adr": 63.64
+        },
+        {
+          "name": "siuhy",
+          "kills": 14,
+          "deaths": 11,
+          "adr": 83.6
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_inferno",
+    "firstTeam": {
+      "name": "C9",
+      "fullName": "Cloud9",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c"
+    },
+    "secondTeam": {
+      "name": "VITALITY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=100&s=a0731380d1075205aadb30905a49da55"
+    },
+    "result": {
+      "firstTeam": 10,
+      "secondTeam": 11
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "sh1ro",
+          "kills": 19,
+          "deaths": 13,
+          "adr": 64.79
+        },
+        {
+          "name": "Ax1Le",
+          "kills": 25,
+          "deaths": 8,
+          "adr": 69.4
+        },
+        {
+          "name": "HObbit",
+          "kills": 8,
+          "deaths": 14,
+          "adr": 58.29
+        },
+        {
+          "name": "electroNic",
+          "kills": 21,
+          "deaths": 11,
+          "adr": 71.04
+        },
+        {
+          "name": "Perfecto",
+          "kills": 12,
+          "deaths": 10,
+          "adr": 111.88
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "ZywOo",
+          "kills": 24,
+          "deaths": 13,
+          "adr": 71.57
+        },
+        {
+          "name": "apEX",
+          "kills": 22,
+          "deaths": 19,
+          "adr": 93.33
+        },
+        {
+          "name": "flameZ",
+          "kills": 10,
+          "deaths": 13,
+          "adr": 84.61
+        },
+        {
+          "name": "Spinx",
+          "kills": 19,
+          "deaths": 17,
+          "adr": 86.65
+        },
+        {
+          "name": "Magisk",
+          "kills": 10,
+          "deaths": 14,
+          "adr": 73.51
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_dust2",
+    "firstTeam": {
+      "name": "ASTRALIS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+    },
+    "secondTeam": {
+      "name": "OG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VZHA__RIJY6gisB-l6HfiO.png?ixlib=java-2.1.0&w=100&s=2ef53aec0eec6572ba50ed419222d4e5"
+    },
+    "result": {
+      "firstTeam": 11,
+      "secondTeam": 15
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "device",
+          "kills": 22,
+          "deaths": 9,
+          "adr": 118.3
+        },
+        {
+          "name": "blameF",
+          "kills": 13,
+          "deaths": 13,
+          "adr": 53.5
+        },
+        {
+          "name": "Buzz",
+          "kills": 15,
+          "deaths": 18,
+          "adr": 57.33
+        },
+        {
+          "name": "Staehr",
+          "kills": 14,
+          "deaths": 11,
+          "adr": 92.62
+        },
+        {
+          "name": "b0RUP",
+          "kills": 20,
+          "deaths": 8,
+          "adr": 72.03
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "F1KU",
+          "kills": 25,
+          "deaths": 13,
+          "adr": 62.07
+        },
+        {
+          "name": "NEOFRAG",
+          "kills": 16,
+          "deaths": 19,
+          "adr": 114.84
+        },
+        {
+          "name": "nexa",
+          "kills": 14,
+          "deaths": 9,
+          "adr": 55.64
+        },
+        {
+          "name": "flameZ",
+          "kills": 21,
+          "deaths": 10,
+          "adr": 85.42
+        },
+        {
+          "name": "regali",
+          "kills": 11,
+          "deaths": 12,
+          "adr": 68.36
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_ancient",
+    "firstTeam": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "secondTeam": {
+      "name": "ASTRALIS",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067"
+    },
+    "result": {
+      "firstTeam": 16,
+      "secondTeam": 8
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "frozen",
+          "kills": 17,
+          "deaths": 11,
+          "adr": 88.1
+        },
+        {
+          "name": "xertioN",
+          "kills": 24,
+          "deaths": 8,
+          "adr": 116.53
+        },
+        {
+          "name": "torzsi",
+          "kills": 18,
+          "deaths": 12,
+          "adr": 80.96
+        },
+        {
+          "name": "Jimpphat",
+          "kills": 18,
+          "deaths": 20,
+          "adr": 114.18
+        },
+        {
+          "name": "siuhy",
+          "kills": 16,
+          "deaths": 10,
+          "adr": 79.89
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "device",
+          "kills": 24,
+          "deaths": 13,
+          "adr": 89.36
+        },
+        {
+          "name": "blameF",
+          "kills": 19,
+          "deaths": 8,
+          "adr": 100.2
+        },
+        {
+          "name": "Buzz",
+          "kills": 11,
+          "deaths": 15,
+          "adr": 78.05
+        },
+        {
+          "name": "Staehr",
+          "kills": 19,
+          "deaths": 14,
+          "adr": 100.06
+        },
+        {
+          "name": "b0RUP",
+          "kills": 24,
+          "deaths": 12,
+          "adr": 105.92
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_nuke",
+    "firstTeam": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "secondTeam": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "result": {
+      "firstTeam": 9,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "dycha",
+          "kills": 17,
+          "deaths": 11,
+          "adr": 59.6
+        },
+        {
+          "name": "NertZ",
+          "kills": 9,
+          "deaths": 9,
+          "adr": 79.27
+        },
+        {
+          "name": "SunPayus",
+          "kills": 25,
+          "deaths": 9,
+          "adr": 74.5
+        },
+        {
+          "name": "Maden",
+          "kills": 13,
+          "deaths": 8,
+          "adr": 102.94
+        },
+        {
+          "name": "sAw",
+          "kills": 12,
+          "deaths": 18,
+          "adr": 72.89
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "frozen",
+          "kills": 15,
+          "deaths": 13,
+          "adr": 112.78
+        },
+        {
+          "name": "xertioN",
+          "kills": 11,
+          "deaths": 12,
+          "adr": 108.85
+        },
+        {
+          "name": "torzsi",
+          "kills": 17,
+          "deaths": 9,
+          "adr": 106.99
+        },
+        {
+          "name": "Jimpphat",
+          "kills": 25,
+          "deaths": 9,
+          "adr": 103.74
+        },
+        {
+          "name": "siuhy",
+          "kills": 11,
+          "deaths": 19,
+          "adr": 69.63
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_nuke",
+    "firstTeam": {
+      "name": "FORZE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/x0iXzbuTd75816rzdvXwnQ.png?ixlib=java-2.1.0&w=100&s=24b9c2230e21733dba7246ab1499a8a7"
+    },
+    "secondTeam": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=100&s=88aeba1564bc27de69fb2302e47e1a7c"
+    },
+    "result": {
+      "firstTeam": 8,
+      "secondTeam": 11
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "zorte",
+          "kills": 19,
+          "deaths": 17,
+          "adr": 63.31
+        },
+        {
+          "name": "KENSI",
+          "kills": 18,
+          "deaths": 8,
+          "adr": 86.53
+        },
+        {
+          "name": "shalfey",
+          "kills": 21,
+          "deaths": 11,
+          "adr": 84.87
+        },
+        {
+          "name": "Jerry",
+          "kills": 13,
+          "deaths": 20,
+          "adr": 77.84
+        },
+        {
+          "name": "Norwi",
+          "kills": 16,
+          "deaths": 19,
+          "adr": 55.21
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "NiKo",
+          "kills": 25,
+          "deaths": 14,
+          "adr": 53.29
+        },
+        {
+          "name": "huNter-",
+          "kills": 21,
+          "deaths": 13,
+          "adr": 109.16
+        },
+        {
+          "name": "m0NESY",
+          "kills": 11,
+          "deaths": 10,
+          "adr": 95.85
+        },
+        {
+          "name": "HooXi",
+          "kills": 11,
+          "deaths": 17,
+          "adr": 75.59
+        },
+        {
+          "name": "jks",
+          "kills": 17,
+          "deaths": 19,
+          "adr": 116.54
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_nuke",
+    "firstTeam": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=100&s=88aeba1564bc27de69fb2302e47e1a7c"
+    },
+    "secondTeam": {
+      "name": "FAZE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/66pHABGIztb3uoDAU18k76.png?ixlib=java-2.1.0&w=100&s=5d1edd71e1636d78c53c68aa1bcbe9f1"
+    },
+    "result": {
+      "firstTeam": 14,
+      "secondTeam": 8
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "NiKo",
+          "kills": 17,
+          "deaths": 11,
+          "adr": 56.33
+        },
+        {
+          "name": "huNter-",
+          "kills": 20,
+          "deaths": 18,
+          "adr": 85.82
+        },
+        {
+          "name": "m0NESY",
+          "kills": 16,
+          "deaths": 12,
+          "adr": 67.67
+        },
+        {
+          "name": "HooXi",
+          "kills": 17,
+          "deaths": 16,
+          "adr": 67.94
+        },
+        {
+          "name": "jks",
+          "kills": 24,
+          "deaths": 17,
+          "adr": 116.91
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "rain",
+          "kills": 12,
+          "deaths": 18,
+          "adr": 65.44
+        },
+        {
+          "name": "ropz",
+          "kills": 15,
+          "deaths": 13,
+          "adr": 102.63
+        },
+        {
+          "name": "karrigan",
+          "kills": 19,
+          "deaths": 14,
+          "adr": 96.44
+        },
+        {
+          "name": "broky",
+          "kills": 16,
+          "deaths": 19,
+          "adr": 64.72
+        },
+        {
+          "name": "Twistzz",
+          "kills": 22,
+          "deaths": 10,
+          "adr": 100.31
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_ancient",
+    "firstTeam": {
+      "name": "MOUZ",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+    },
+    "secondTeam": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "result": {
+      "firstTeam": 10,
+      "secondTeam": 13
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "frozen",
+          "kills": 13,
+          "deaths": 8,
+          "adr": 96.52
+        },
+        {
+          "name": "xertioN",
+          "kills": 9,
+          "deaths": 9,
+          "adr": 99.84
+        },
+        {
+          "name": "torzsi",
+          "kills": 8,
+          "deaths": 10,
+          "adr": 85.73
+        },
+        {
+          "name": "Jimpphat",
+          "kills": 9,
+          "deaths": 9,
+          "adr": 80.85
+        },
+        {
+          "name": "siuhy",
+          "kills": 25,
+          "deaths": 10,
+          "adr": 90.04
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "dycha",
+          "kills": 18,
+          "deaths": 10,
+          "adr": 74.42
+        },
+        {
+          "name": "NertZ",
+          "kills": 9,
+          "deaths": 17,
+          "adr": 102.06
+        },
+        {
+          "name": "SunPayus",
+          "kills": 19,
+          "deaths": 19,
+          "adr": 55.43
+        },
+        {
+          "name": "Maden",
+          "kills": 17,
+          "deaths": 12,
+          "adr": 98.88
+        },
+        {
+          "name": "sAw",
+          "kills": 25,
+          "deaths": 10,
+          "adr": 80.97
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_ancient",
+    "firstTeam": {
+      "name": "VITALITY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=100&s=a0731380d1075205aadb30905a49da55"
+    },
+    "secondTeam": {
+      "name": "VP",
+      "fullName": "Virtus.pro",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875"
+    },
+    "result": {
+      "firstTeam": 13,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "ZywOo",
+          "kills": 15,
+          "deaths": 17,
+          "adr": 59.46
+        },
+        {
+          "name": "apEX",
+          "kills": 15,
+          "deaths": 16,
+          "adr": 75.39
+        },
+        {
+          "name": "flameZ",
+          "kills": 23,
+          "deaths": 11,
+          "adr": 69.09
+        },
+        {
+          "name": "Spinx",
+          "kills": 24,
+          "deaths": 15,
+          "adr": 58.32
+        },
+        {
+          "name": "Magisk",
+          "kills": 19,
+          "deaths": 9,
+          "adr": 51.69
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "Jame",
+          "kills": 19,
+          "deaths": 9,
+          "adr": 99.15
+        },
+        {
+          "name": "FL1T",
+          "kills": 9,
+          "deaths": 10,
+          "adr": 97.47
+        },
+        {
+          "name": "qikert",
+          "kills": 13,
+          "deaths": 14,
+          "adr": 77.43
+        },
+        {
+          "name": "n0rb3r7",
+          "kills": 25,
+          "deaths": 15,
+          "adr": 103.59
+        },
+        {
+          "name": "fame",
+          "kills": 25,
+          "deaths": 11,
+          "adr": 88.62
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_inferno",
+    "firstTeam": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "secondTeam": {
+      "name": "SPIRIT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ywdn4tmAvXfllLeV2SkkvF.png?ixlib=java-2.1.0&w=100&s=e441b77b1cafbca20ba9f667caca56f4"
+    },
+    "result": {
+      "firstTeam": 8,
+      "secondTeam": 11
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "dycha",
+          "kills": 14,
+          "deaths": 19,
+          "adr": 73.11
+        },
+        {
+          "name": "NertZ",
+          "kills": 8,
+          "deaths": 17,
+          "adr": 79.66
+        },
+        {
+          "name": "SunPayus",
+          "kills": 8,
+          "deaths": 11,
+          "adr": 74.05
+        },
+        {
+          "name": "Maden",
+          "kills": 10,
+          "deaths": 13,
+          "adr": 66.34
+        },
+        {
+          "name": "sAw",
+          "kills": 15,
+          "deaths": 17,
+          "adr": 108.38
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "donk",
+          "kills": 8,
+          "deaths": 8,
+          "adr": 57.55
+        },
+        {
+          "name": "chopper",
+          "kills": 9,
+          "deaths": 16,
+          "adr": 82.64
+        },
+        {
+          "name": "magixx",
+          "kills": 25,
+          "deaths": 15,
+          "adr": 100.12
+        },
+        {
+          "name": "zont1x",
+          "kills": 8,
+          "deaths": 16,
+          "adr": 57.43
+        },
+        {
+          "name": "artfr0st",
+          "kills": 22,
+          "deaths": 17,
+          "adr": 78.26
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_mirage",
+    "firstTeam": {
+      "name": "HEROIC",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=100&s=a5d9fdc008d14ed3b126835304871d49"
+    },
+    "secondTeam": {
+      "name": "BIG",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974"
+    },
+    "result": {
+      "firstTeam": 14,
+      "secondTeam": 11
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "stavn",
+          "kills": 20,
+          "deaths": 9,
+          "adr": 80.07
+        },
+        {
+          "name": "jabbi",
+          "kills": 22,
+          "deaths": 16,
+          "adr": 106.4
+        },
+        {
+          "name": "TeSeS",
+          "kills": 11,
+          "deaths": 17,
+          "adr": 50.07
+        },
+        {
+          "name": "sjuush",
+          "kills": 13,
+          "deaths": 10,
+          "adr": 101.88
+        },
+        {
+          "name": "cadiaN",
+          "kills": 15,
+          "deaths": 18,
+          "adr": 73.64
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "tabseN",
+          "kills": 14,
+          "deaths": 9,
+          "adr": 85.69
+        },
+        {
+          "name": "k1to",
+          "kills": 18,
+          "deaths": 10,
+          "adr": 64.91
+        },
+        {
+          "name": "Krimbo",
+          "kills": 13,
+          "deaths": 17,
+          "adr": 75.63
+        },
+        {
+          "name": "prosus",
+          "kills": 17,
+          "deaths": 20,
+          "adr": 105.13
+        },
+        {
+          "name": "s1n",
+          "kills": 19,
+          "deaths": 13,
+          "adr": 91.55
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_overpass",
+    "firstTeam": {
+      "name": "9INE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/59EeJjjh_x-MUuUzupO48J.png?ixlib=java-2.1.0&w=100&s=0f72f8294713ef9a678cf98290c9c88c"
+    },
+    "secondTeam": {
+      "name": "VITALITY",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yeXBldn9w8LZCgdElAenPs.png?ixlib=java-2.1.0&w=100&s=a0731380d1075205aadb30905a49da55"
+    },
+    "result": {
+      "firstTeam": 8,
+      "secondTeam": 9
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "KEi",
+          "kills": 21,
+          "deaths": 12,
+          "adr": 53.99
+        },
+        {
+          "name": "Goofy",
+          "kills": 13,
+          "deaths": 14,
+          "adr": 74.73
+        },
+        {
+          "name": "hades",
+          "kills": 11,
+          "deaths": 20,
+          "adr": 79.88
+        },
+        {
+          "name": "Kylar",
+          "kills": 21,
+          "deaths": 10,
+          "adr": 93.53
+        },
+        {
+          "name": "mynio",
+          "kills": 20,
+          "deaths": 17,
+          "adr": 74.75
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "ZywOo",
+          "kills": 18,
+          "deaths": 8,
+          "adr": 95.26
+        },
+        {
+          "name": "apEX",
+          "kills": 23,
+          "deaths": 17,
+          "adr": 80.33
+        },
+        {
+          "name": "flameZ",
+          "kills": 14,
+          "deaths": 10,
+          "adr": 113.77
+        },
+        {
+          "name": "Spinx",
+          "kills": 22,
+          "deaths": 12,
+          "adr": 104.93
+        },
+        {
+          "name": "Magisk",
+          "kills": 12,
+          "deaths": 8,
+          "adr": 85.75
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_overpass",
+    "firstTeam": {
+      "name": "FAZE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/66pHABGIztb3uoDAU18k76.png?ixlib=java-2.1.0&w=100&s=5d1edd71e1636d78c53c68aa1bcbe9f1"
+    },
+    "secondTeam": {
+      "name": "SPIRIT",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ywdn4tmAvXfllLeV2SkkvF.png?ixlib=java-2.1.0&w=100&s=e441b77b1cafbca20ba9f667caca56f4"
+    },
+    "result": {
+      "firstTeam": 14,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "rain",
+          "kills": 17,
+          "deaths": 9,
+          "adr": 105.09
+        },
+        {
+          "name": "ropz",
+          "kills": 22,
+          "deaths": 16,
+          "adr": 89.37
+        },
+        {
+          "name": "karrigan",
+          "kills": 18,
+          "deaths": 20,
+          "adr": 53.21
+        },
+        {
+          "name": "broky",
+          "kills": 21,
+          "deaths": 13,
+          "adr": 111.23
+        },
+        {
+          "name": "Twistzz",
+          "kills": 20,
+          "deaths": 17,
+          "adr": 67.84
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "donk",
+          "kills": 20,
+          "deaths": 20,
+          "adr": 119.27
+        },
+        {
+          "name": "chopper",
+          "kills": 21,
+          "deaths": 8,
+          "adr": 56.28
+        },
+        {
+          "name": "magixx",
+          "kills": 16,
+          "deaths": 12,
+          "adr": 66.89
+        },
+        {
+          "name": "zont1x",
+          "kills": 24,
+          "deaths": 15,
+          "adr": 89.91
+        },
+        {
+          "name": "artfr0st",
+          "kills": 14,
+          "deaths": 10,
+          "adr": 113.83
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_dust2",
+    "firstTeam": {
+      "name": "LIQUID",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62"
+    },
+    "secondTeam": {
+      "name": "C9",
+      "fullName": "Cloud9",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c"
+    },
+    "result": {
+      "firstTeam": 8,
+      "secondTeam": 16
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "NAF",
+          "kills": 16,
+          "deaths": 17,
+          "adr": 106.17
+        },
+        {
+          "name": "oSee",
+          "kills": 18,
+          "deaths": 17,
+          "adr": 115.26
+        },
+        {
+          "name": "YEKINDAR",
+          "kills": 19,
+          "deaths": 14,
+          "adr": 57.94
+        },
+        {
+          "name": "Patsi",
+          "kills": 11,
+          "deaths": 15,
+          "adr": 53.84
+        },
+        {
+          "name": "cadiaN",
+          "kills": 21,
+          "deaths": 17,
+          "adr": 99.35
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "sh1ro",
+          "kills": 12,
+          "deaths": 17,
+          "adr": 61.63
+        },
+        {
+          "name": "Ax1Le",
+          "kills": 21,
+          "deaths": 18,
+          "adr": 77.01
+        },
+        {
+          "name": "HObbit",
+          "kills": 15,
+          "deaths": 13,
+          "adr": 55.13
+        },
+        {
+          "name": "electroNic",
+          "kills": 17,
+          "deaths": 19,
+          "adr": 87.77
+        },
+        {
+          "name": "Perfecto",
+          "kills": 22,
+          "deaths": 19,
+          "adr": 53.94
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_mirage",
+    "firstTeam": {
+      "name": "C9",
+      "fullName": "Cloud9",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c"
+    },
+    "secondTeam": {
+      "name": "NIP",
+      "fullName": "Ninjas in Pyjamas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=100&s=95466e17ba2af2a72ec28bd1af66ceee"
+    },
+    "result": {
+      "firstTeam": 10,
+      "secondTeam": 8
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "sh1ro",
+          "kills": 23,
+          "deaths": 14,
+          "adr": 117.43
+        },
+        {
+          "name": "Ax1Le",
+          "kills": 9,
+          "deaths": 11,
+          "adr": 97.83
+        },
+        {
+          "name": "HObbit",
+          "kills": 9,
+          "deaths": 13,
+          "adr": 100.09
+        },
+        {
+          "name": "electroNic",
+          "kills": 19,
+          "deaths": 9,
+          "adr": 86.22
+        },
+        {
+          "name": "Perfecto",
+          "kills": 14,
+          "deaths": 13,
+          "adr": 67.52
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "REZ",
+          "kills": 9,
+          "deaths": 20,
+          "adr": 98.24
+        },
+        {
+          "name": "Brollan",
+          "kills": 13,
+          "deaths": 13,
+          "adr": 62.75
+        },
+        {
+          "name": "aleksib",
+          "kills": 24,
+          "deaths": 19,
+          "adr": 109.74
+        },
+        {
+          "name": "es3tag",
+          "kills": 24,
+          "deaths": 14,
+          "adr": 52.42
+        },
+        {
+          "name": "headtr1ck",
+          "kills": 18,
+          "deaths": 9,
+          "adr": 67.9
+        }
+      ]
+    }
+  },
+  {
+    "mapName": "de_overpass",
+    "firstTeam": {
+      "name": "ENCE",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+    },
+    "secondTeam": {
+      "name": "G2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=100&s=88aeba1564bc27de69fb2302e47e1a7c"
+    },
+    "result": {
+      "firstTeam": 10,
+      "secondTeam": 8
+    },
+    "scoreboard": {
+      "firstTeam": [
+        {
+          "name": "dycha",
+          "kills": 13,
+          "deaths": 19,
+          "adr": 117.58
+        },
+        {
+          "name": "NertZ",
+          "kills": 20,
+          "deaths": 12,
+          "adr": 70.67
+        },
+        {
+          "name": "SunPayus",
+          "kills": 17,
+          "deaths": 14,
+          "adr": 64.69
+        },
+        {
+          "name": "Maden",
+          "kills": 18,
+          "deaths": 17,
+          "adr": 71.32
+        },
+        {
+          "name": "sAw",
+          "kills": 16,
+          "deaths": 11,
+          "adr": 89.2
+        }
+      ],
+      "secondTeam": [
+        {
+          "name": "NiKo",
+          "kills": 16,
+          "deaths": 11,
+          "adr": 85.59
+        },
+        {
+          "name": "huNter-",
+          "kills": 19,
+          "deaths": 10,
+          "adr": 59.74
+        },
+        {
+          "name": "m0NESY",
+          "kills": 14,
+          "deaths": 20,
+          "adr": 104.22
+        },
+        {
+          "name": "HooXi",
+          "kills": 9,
+          "deaths": 20,
+          "adr": 54.48
+        },
+        {
+          "name": "jks",
+          "kills": 10,
+          "deaths": 9,
+          "adr": 90.34
+        }
+      ]
+    }
+  }
+]
