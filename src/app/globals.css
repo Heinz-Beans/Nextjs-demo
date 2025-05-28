@@ -41,6 +41,67 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
+
+  /* Custom Color Palette */
+  /* Grey Scale */
+  --color-grey-0: #FFFFFF;
+  --color-grey-100: #F6F8FF;
+  --color-grey-200: #B1B8D8;
+  --color-grey-300: #767DA1;
+  --color-grey-400: #51537D;
+  --color-grey-500: #3E445A;
+  --color-grey-600: #13193C;
+  --color-grey-700: #0D1231;
+  --color-grey-750: #0A0D24;
+  --color-grey-800: #00001D;
+  --color-grey-900: #01020F;
+
+  /* Primary Colors */
+  --color-primary-light: #71FFCC;
+  --color-primary-main: #02EA96;
+  --color-primary-dark: #01292B;
+  --color-primary-contrast-text: #01020F;
+
+  /* Secondary Colors */
+  --color-secondary-main: #F6F8FF;
+
+  /* Warning Colors */
+  --color-warning-light: #FFC478;
+  --color-warning-main: #FCA22D;
+  --color-warning-dark: #653900;
+  --color-warning-contrast-text: #00001D;
+
+  /* Error Colors */
+  --color-error-light: #FF8581;
+  --color-error-main: #DB1F35;
+  --color-error-dark: #3D0007;
+  --color-error-contrast-text: #FFFFFF;
+
+  /* Common Colors */
+  --color-common-black: #000000;
+  --color-common-white: #FFFFFF;
+
+  /* Utility Colors */
+  --color-border: #13193C;
+  --color-secondary-border: #061EA5;
+  --color-discord: #5865F2;
+
+  /* Team Colors */
+  --color-team-ct-main: #0074E8;
+  --color-team-t-main: #FFD700;
+
+  /* Gradients */
+  --gradient-background: linear-gradient(226.6deg, #020731 4.51%, #01020F 93.9%);
+  --gradient-neutral: linear-gradient(136deg, #0A1A7F 0%, #0B1556 100%);
+  --gradient-chart: linear-gradient(180deg, #02EA96 0%, rgba(1, 4, 23, 0.00) 100%);
+  --gradient-image: linear-gradient(180deg, rgba(1, 4, 23, 0.00) 0%, #010417 100%);
+  --gradient-text: linear-gradient(261deg, #0187BE 0%, #02EA96 100%);
+  --gradient-primary-main: linear-gradient(100deg, #02EA96 0%, #01CAA4 100%);
+  --gradient-primary-hover: linear-gradient(136deg, #00C980 0%, #009C7F 100%);
+  --gradient-warning-main: linear-gradient(136deg, #FFC478 0%, #FCA22D 100%);
+  --gradient-error-main: linear-gradient(136deg, #FB675F 0%, #FF2927 100%);
+  --gradient-error-hover: linear-gradient(136deg, #E33C35 0%, #D82A26 100%);
+  --gradient-info-main: linear-gradient(136deg, #0A1A7F 0%, #0B1556 100%), radial-gradient(103.24% 76.23% at 29.35% 15.7%, #0A1A7F 0%, #0B1556 100%);
 }
 
 :root {

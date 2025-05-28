@@ -1,6 +1,7 @@
 import { Match } from "@/components/ui/match";
 import { getMatchDetail } from "@/lib/data";
 import { Match as MatchType } from "@/lib/types";
+import Link from "next/link";
 
 async function MatchDetailPage({params}: {params: Promise<{matchId: string}>}) {
   const {matchId} = await params;
@@ -19,8 +20,11 @@ async function MatchDetailPage({params}: {params: Promise<{matchId: string}>}) {
   }
 
   return (
-    <div>
+    <div className="flex items-center w-full flex-col p-20 bg-secondary-main h-screen">
       <Match match={match} />
+      <Link href="/">
+        <span>Back to home</span>
+      </Link>
     </div>
   );
 }
