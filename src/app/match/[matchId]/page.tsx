@@ -1,30 +1,28 @@
 import { Match } from "@/components/ui/match";
+import { columns } from "@/components/ui/players/columns";
+import PlayerTable from "@/components/ui/players/playerTable";
 import { getMatchDetail } from "@/lib/data";
 import { Match as MatchType } from "@/lib/types";
 import Link from "next/link";
 
-async function MatchDetailPage({params}: {params: Promise<{matchId: string}>}) {
-  const {matchId} = await params;
-  let match:MatchType|undefined;
+async function MatchDetailPage({ params }: { params: Promise<{ matchId: string }> }) {
+  const { matchId } = await params;
+  let match: MatchType | undefined;
 
   if (!matchId || isNaN(parseInt(matchId))) {
     return <div>Match ID is required</div>;
   }
 
   try {
-    const result = await getMatchDetail({matchId: parseInt(matchId)});
+    const result = await getMatchDetail({ matchId: parseInt(matchId) });
     match = result as MatchType;
-  }
-  catch (error) {
-    console.error('Error fetching match detail:', error);
+  } catch (error) {
+    console.error("Error fetching match detail:", error);
   }
 
   return (
     <div className="flex items-center w-full flex-col p-20">
-      {match ?
-      <Match match={match} />
-      :
-      <span className="text-error-main bold text-6xl">Match not found</span>}
+      {match ? <Match match={match} /> : <span className="text-error-main bold text-6xl">Match not found</span>}
       <Link href="/">
         <span>Back to home</span>
       </Link>
