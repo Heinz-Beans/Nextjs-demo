@@ -14,12 +14,12 @@ export function Match({match}: {match?: MatchType}) {
       <div className="flex flex-row gap-4 w-full">
         <div className="flex flex-col gap-8 basis-full">
           <TeamName team={match.firstTeam} />
-          <div className="drop-shadow bg-grey-500 text-white h-[200px]">playerlist placeholder</div>
+          <div className="from-grey-400 bg-(image:--gradient-green-strip-r) drop-shadow bg-grey-400 text-white h-[200px]">playerlist placeholder</div>
         </div>
         <MapName mapName={match.mapName} />
         <div className="flex flex-col gap-8 basis-full">
           <TeamName team={match.secondTeam} reverse/>
-          <div className="drop-shadow bg-grey-500 text-white h-[200px]">playerlist placeholder</div>
+          <div className=" from-grey-400 bg-(image:--gradient-green-strip-l) drop-shadow bg-grey-400 text-white h-[200px]">playerlist placeholder</div>
         </div>
       </div>
     </div>

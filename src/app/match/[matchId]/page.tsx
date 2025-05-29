@@ -7,7 +7,7 @@ async function MatchDetailPage({params}: {params: Promise<{matchId: string}>}) {
   const {matchId} = await params;
   let match:MatchType|undefined;
 
-  if (!matchId || isNaN(parseInt(matchId))) { //TODO no ID is handled as 404, fix this
+  if (!matchId || isNaN(parseInt(matchId))) {
     return <div>Match ID is required</div>;
   }
 
@@ -20,8 +20,11 @@ async function MatchDetailPage({params}: {params: Promise<{matchId: string}>}) {
   }
 
   return (
-    <div className="flex items-center w-full flex-col p-20 bg-secondary-main h-screen">
+    <div className="flex items-center w-full flex-col p-20">
+      {match ?
       <Match match={match} />
+      :
+      <span className="text-error-main bold text-6xl">Match not found</span>}
       <Link href="/">
         <span>Back to home</span>
       </Link>

@@ -102,6 +102,8 @@
   --gradient-error-main: linear-gradient(136deg, #FB675F 0%, #FF2927 100%);
   --gradient-error-hover: linear-gradient(136deg, #E33C35 0%, #D82A26 100%);
   --gradient-info-main: linear-gradient(136deg, #0A1A7F 0%, #0B1556 100%), radial-gradient(103.24% 76.23% at 29.35% 15.7%, #0A1A7F 0%, #0B1556 100%);
+  --gradient-green-strip-r: linear-gradient(90deg, #51537D 99%, #71FFCC 100%);
+  --gradient-green-strip-l: linear-gradient(-90deg, #51537D 99%, #71FFCC 100%);
 }
 
 :root {
