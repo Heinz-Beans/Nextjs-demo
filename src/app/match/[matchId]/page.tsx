@@ -1,6 +1,4 @@
-import { Match } from "@/components/ui/match";
-import { columns } from "@/components/ui/players/columns";
-import PlayerTable from "@/components/ui/players/playerTable";
+import { Match } from "@/components/blocks/match";
 import { getMatchDetail } from "@/lib/data";
 import { Match as MatchType } from "@/lib/types";
 import Link from "next/link";
