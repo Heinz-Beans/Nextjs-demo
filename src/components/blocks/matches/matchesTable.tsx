@@ -3,11 +3,18 @@
 import { ColumnDef, flexRender, SortingState, getSortedRowModel, getCoreRowModel, useReactTable, getPaginationRowModel } from "@tanstack/react-table";
 import { Button } from "@/components/ui/button";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useState } from "react";
 import { Match } from "@/lib/types";
+import { useAppStore } from "@/stores/appStore";
 
 export default function MatchesTable({ data, columns }: { data: Match[]; columns: ColumnDef<Match>[] }) {
   const [sorting, setSorting] = useState<SortingState>([]);
+
+  const { selectedMatchId, setSelectedMatchId } = useAppStore();
+
+  const setMatchCallback = useCallback((index: number) => {
+    setSelectedMatchId(index);
+  }, []);
 
   const table = useReactTable({
     data,
@@ -42,7 +49,7 @@ export default function MatchesTable({ data, columns }: { data: Match[]; columns
         </TableHeader>
         <TableBody>
           {table.getRowModel().rows.map((row) => (
-            <TableRow key={row.id}>
+            <TableRow key={row.id} className={row.index === selectedMatchId ? "bg-grey-500" : ""} onClick={() => setMatchCallback(row.index)}>
               {row.getVisibleCells().map((cell) => (
                 <TableCell key={cell.id}>{flexRender(cell.column.columnDef.cell, cell.getContext())}</TableCell>
               ))}

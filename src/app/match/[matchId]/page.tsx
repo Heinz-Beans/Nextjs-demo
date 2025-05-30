@@ -1,22 +1,16 @@
 import { Match } from "@/components/blocks/match";
-import { getMatchDetail } from "@/lib/data";
-import { Match as MatchType } from "@/lib/types";
 
 async function MatchDetailPage({ params }: { params: Promise<{ matchId: string }> }) {
   const { matchId } = await params;
-  let match: MatchType | undefined;
 
   if (!matchId || isNaN(parseInt(matchId))) {
     return <div>Match ID is required</div>;
   }
 
-  try {
-    const result = await getMatchDetail({ matchId: parseInt(matchId) });
-    match = result as MatchType;
-  } catch (error) {
-    console.error("Error fetching match detail:", error);
-  }
-
-  return <div className="flex items-center w-full flex-col p-20">{match ? <Match match={match} /> : <span className="text-error-main bold text-6xl">Match not found</span>}</div>;
+  return (
+    <div className="flex items-center w-full flex-col p-20">
+      <Match matchId={parseInt(matchId)} />
+    </div>
+  );
 }
 export default MatchDetailPage;

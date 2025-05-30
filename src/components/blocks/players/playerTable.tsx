@@ -40,7 +40,7 @@ export default function PlayerTable({ data, columns }: { data: Player[]; columns
         </TableHeader>
         <TableBody>
           {table.getRowModel().rows.map((row) => (
-            <TableRow key={row.id} className={winner === row.original.adr ? "bg-warning-light" : ""}>
+            <TableRow key={row.id} className={winner === row.original.adr ? "bg-grey-700" : ""}>
               {row.getVisibleCells().map((cell) => (
                 <TableCell key={cell.id}>{flexRender(cell.column.columnDef.cell, cell.getContext())}</TableCell>
               ))}
