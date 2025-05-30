@@ -1,15 +1,7 @@
 "use client";
 
-import {
-  ColumnDef,
-  flexRender,
-  SortingState,
-  getSortedRowModel,
-  getCoreRowModel,
-  useReactTable,
-  getPaginationRowModel,
-} from "@tanstack/react-table";
 import { Button } from "@/components/ui/button";
+import { LoadingSpinner } from "@/components/ui/loadingSpinner";
 import {
   Table,
   TableBody,
@@ -18,27 +10,31 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { useCallback, useState } from "react";
-import { Match } from "@/lib/types";
+import { useMatches } from "@/hooks/useMatch";
 import { useAppStore } from "@/stores/appStore";
+import {
+  flexRender,
+  getCoreRowModel,
+  getPaginationRowModel,
+  getSortedRowModel,
+  SortingState,
+  useReactTable,
+} from "@tanstack/react-table";
+import { useCallback, useState } from "react";
+import { columns } from "./columns";
 
-export default function MatchesTable({
-  data,
-  columns,
-}: {
-  data: Match[];
-  columns: ColumnDef<Match>[];
-}) {
+export default function MatchesTable() {
+  const { data, isLoading, error } = useMatches();
   const [sorting, setSorting] = useState<SortingState>([]);
 
   const { selectedMatchId, setSelectedMatchId } = useAppStore();
 
-  const setMatchCallback = useCallback((index: number) => {
+  const setMatchCb = useCallback((index: number) => {
     setSelectedMatchId(index);
   }, []);
 
   const table = useReactTable({
-    data,
+    data: data || [],
     columns,
     getCoreRowModel: getCoreRowModel(),
     onSortingChange: setSorting,
@@ -53,6 +49,21 @@ export default function MatchesTable({
       },
     },
   });
+
+  if (isLoading) {
+    return <LoadingSpinner className="flex justify-center p-15" />;
+  }
+  if (error) {
+    return (
+      <span className="text-error-main bold text-4xl text-center">
+        Error loading matches
+      </span>
+    );
+  }
+
+  if (!data || data.length === 0) {
+    return <span className="text-error-main bold text-4xl text-center">No matches</span>;
+  }
 
   return (
     <div className="w-full">
@@ -73,7 +84,7 @@ export default function MatchesTable({
             <TableRow
               key={row.id}
               className={row.index === selectedMatchId ? "bg-grey-500" : ""}
-              onClick={() => setMatchCallback(row.index)}
+              onClick={() => setMatchCb(row.index)}
             >
               {row.getVisibleCells().map((cell) => (
                 <TableCell key={cell.id}>
