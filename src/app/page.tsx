@@ -1,5 +1,5 @@
 import { Match } from "@/components/blocks/match";
-import MatchesTable from "@/components/blocks/matches/matchesTable";
+import { MatchesTable } from "@/components/blocks/matches/matchesTable";
 
 export default async function Home() {
   return (

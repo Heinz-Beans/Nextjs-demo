@@ -2,23 +2,23 @@
 
 import { useMatchDetail } from "@/hooks/useMatch";
 import { useAppStore } from "@/stores/appStore";
+import { memo } from "react";
 import { LoadingSpinner } from "../ui/loadingSpinner";
 import { MapName } from "../ui/mapName";
 import { Score } from "../ui/score";
 import { TeamName } from "../ui/teamName";
 import { columns } from "./players/columns";
-import PlayerTable from "./players/playerTable";
+import { PlayerTable } from "./players/playerTable";
 
-export function Match({ matchId }: { matchId?: number }) {
+export const Match = memo(function Match({ matchId }: { matchId?: number }) {
   const { selectedMatchId } = useAppStore();
-
   const { data: match, isLoading, error } = useMatchDetail(matchId || selectedMatchId);
 
   if (isLoading) {
     return <LoadingSpinner className="flex justify-center h-[490px] p-15" />;
   }
 
-  if (!match) {
+  if (!match || error) {
     return <span className="text-error-main bold text-6xl">Match not found</span>;
   }
 
@@ -42,4 +42,4 @@ export function Match({ matchId }: { matchId?: number }) {
       </div>
     </div>
   );
-}
+});

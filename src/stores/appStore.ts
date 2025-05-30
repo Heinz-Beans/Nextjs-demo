@@ -14,5 +14,10 @@ interface AppState {
 
 export const useAppStore = create<AppState>()((set) => ({
   selectedMatchId: 1,
-  setSelectedMatchId: (matchId) => set(() => ({ selectedMatchId: matchId })),
+  setSelectedMatchId: (matchId) => set((state) => {
+    if (matchId !== state.selectedMatchId) {
+      return { selectedMatchId: matchId };
+    }
+    return state;
+  }),
 }));

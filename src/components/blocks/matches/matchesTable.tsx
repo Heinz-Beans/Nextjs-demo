@@ -20,13 +20,12 @@ import {
   SortingState,
   useReactTable,
 } from "@tanstack/react-table";
-import { useCallback, useState } from "react";
+import { memo, useCallback, useState } from "react";
 import { columns } from "./columns";
 
-export default function MatchesTable() {
+export const MatchesTable = memo(function MatchesTable() {
   const { data, isLoading, error } = useMatches();
   const [sorting, setSorting] = useState<SortingState>([]);
-
   const { selectedMatchId, setSelectedMatchId } = useAppStore();
 
   const setMatchCb = useCallback((index: number) => {
@@ -108,4 +107,4 @@ export default function MatchesTable() {
       </div>
     </div>
   );
-}
+});

@@ -3,9 +3,9 @@
 import {
   ColumnDef,
   flexRender,
-  SortingState,
-  getSortedRowModel,
   getCoreRowModel,
+  getSortedRowModel,
+  SortingState,
   useReactTable,
 } from "@tanstack/react-table";
 
@@ -17,10 +17,10 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { useMemo, useState } from "react";
 import { Player } from "@/lib/types";
+import { memo, useMemo, useState } from "react";
 
-export default function PlayerTable({
+export const PlayerTable = memo(function PlayerTable({
   data,
   columns,
 }: {
@@ -75,4 +75,4 @@ export default function PlayerTable({
       </Table>
     </div>
   );
-}
+});
