@@ -1,12 +1,32 @@
 "use client";
 
-import { ColumnDef, flexRender, SortingState, getSortedRowModel, getCoreRowModel, useReactTable } from "@tanstack/react-table";
+import {
+  ColumnDef,
+  flexRender,
+  SortingState,
+  getSortedRowModel,
+  getCoreRowModel,
+  useReactTable,
+} from "@tanstack/react-table";
 
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/ui/table";
 import { useMemo, useState } from "react";
 import { Player } from "@/lib/types";
 
-export default function PlayerTable({ data, columns }: { data: Player[]; columns: ColumnDef<Player>[] }) {
+export default function PlayerTable({
+  data,
+  columns,
+}: {
+  data: Player[];
+  columns: ColumnDef<Player>[];
+}) {
   const [sorting, setSorting] = useState<SortingState>([]);
 
   const winner = useMemo(() => {
@@ -40,9 +60,14 @@ export default function PlayerTable({ data, columns }: { data: Player[]; columns
         </TableHeader>
         <TableBody>
           {table.getRowModel().rows.map((row) => (
-            <TableRow key={row.id} className={winner === row.original.adr ? "bg-grey-700" : ""}>
+            <TableRow
+              key={row.id}
+              className={winner === row.original.adr ? "bg-grey-700" : ""}
+            >
               {row.getVisibleCells().map((cell) => (
-                <TableCell key={cell.id}>{flexRender(cell.column.columnDef.cell, cell.getContext())}</TableCell>
+                <TableCell key={cell.id}>
+                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                </TableCell>
               ))}
             </TableRow>
           ))}

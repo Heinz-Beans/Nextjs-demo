@@ -1,7 +1,7 @@
 import { Match } from "@/lib/types";
 
 export function Score({ result }: { result: Match["result"] }) {
-  if(!result || !result.firstTeam || !result.secondTeam) {
+  if (!result || !result.firstTeam || !result.secondTeam) {
     return null;
   }
 

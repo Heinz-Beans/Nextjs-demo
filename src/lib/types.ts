@@ -10,7 +10,7 @@ export type Match = {
     firstTeam: Player[];
     secondTeam: Player[];
   };
-}
+};
 
 export type Player = {
   name: string;
@@ -23,7 +23,7 @@ export type Team = {
   name: string;
   fullName?: string;
   logo?: string;
-}
+};
 
 export type Filter = {
   team: string;
