@@ -1,8 +1,10 @@
 "use client";
 
+import { PlayerDetails } from "@/components/ui/playerDetails";
+import { SortableHeader } from "@/components/ui/sortableHeader";
 import { Player } from "@/lib/types";
 import { ColumnDef } from "@tanstack/react-table";
-import { SortableHeader } from "@/components/ui/sortableHeader";
+import { HoverCard, HoverCardContent, HoverCardTrigger } from "../../ui/hoverCard";
 
 export const columns: ColumnDef<Player>[] = [
   {
@@ -12,6 +14,19 @@ export const columns: ColumnDef<Player>[] = [
       const valueA = (rowA.getValue(columnId) as string).toLowerCase();
       const valueB = (rowB.getValue(columnId) as string).toLowerCase();
       return valueA.localeCompare(valueB);
+    },
+    cell: ({ row }) => {
+      const player = row.original;
+      return (
+        <HoverCard>
+          <HoverCardTrigger>
+            <span className="cursor-pointer">{player.name}</span>
+          </HoverCardTrigger>
+          <HoverCardContent className="bg-grey-200">
+            <PlayerDetails player={player} />
+          </HoverCardContent>
+        </HoverCard>
+      );
     },
   },
   {

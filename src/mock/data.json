@@ -19,31 +19,41 @@
           "name": "Woro2k",
           "kills": 23,
           "deaths": 12,
-          "adr": 83.17
+          "adr": 83.17,
+          "avatar": "https://i.pravatar.cc/150?img=1",
+          "bio": "Woro2k is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "demqq",
           "kills": 24,
           "deaths": 16,
-          "adr": 79.55
+          "adr": 79.55,
+          "avatar": "https://i.pravatar.cc/150?img=2",
+          "bio": "demqq brings solid rifling and smart rotates to every match."
         },
         {
           "name": "sdy",
           "kills": 8,
           "deaths": 11,
-          "adr": 75.91
+          "adr": 75.91,
+          "avatar": "https://i.pravatar.cc/150?img=3",
+          "bio": "sdy is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "br0",
           "kills": 15,
           "deaths": 14,
-          "adr": 107.73
+          "adr": 107.73,
+          "avatar": "https://i.pravatar.cc/150?img=4",
+          "bio": "br0 dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "kRaSnaL",
           "kills": 24,
           "deaths": 11,
-          "adr": 61.63
+          "adr": 61.63,
+          "avatar": "https://i.pravatar.cc/150?img=5",
+          "bio": "kRaSnaL is a master of positioning and surprise plays on both sides."
         }
       ],
       "secondTeam": [
@@ -51,31 +61,41 @@
           "name": "s1mple",
           "kills": 18,
           "deaths": 17,
-          "adr": 107.01
+          "adr": 107.01,
+          "avatar": "https://i.pravatar.cc/150?img=6",
+          "bio": "s1mple holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "b1t",
           "kills": 24,
           "deaths": 18,
-          "adr": 110.91
+          "adr": 110.91,
+          "avatar": "https://i.pravatar.cc/150?img=7",
+          "bio": "b1t is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "electroNic",
           "kills": 25,
           "deaths": 18,
-          "adr": 92.82
+          "adr": 92.82,
+          "avatar": "https://i.pravatar.cc/150?img=8",
+          "bio": "electroNic is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "jL",
           "kills": 22,
           "deaths": 20,
-          "adr": 86.56
+          "adr": 86.56,
+          "avatar": "https://i.pravatar.cc/150?img=9",
+          "bio": "jL is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "IM",
           "kills": 13,
           "deaths": 17,
-          "adr": 106.33
+          "adr": 106.33,
+          "avatar": "https://i.pravatar.cc/150?img=10",
+          "bio": "IM brings solid rifling and smart rotates to every match."
         }
       ]
     }
@@ -102,31 +122,41 @@
           "name": "sh1ro",
           "kills": 16,
           "deaths": 15,
-          "adr": 83.86
+          "adr": 83.86,
+          "avatar": "https://i.pravatar.cc/150?img=11",
+          "bio": "sh1ro is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "Ax1Le",
           "kills": 18,
           "deaths": 17,
-          "adr": 95.06
+          "adr": 95.06,
+          "avatar": "https://i.pravatar.cc/150?img=12",
+          "bio": "Ax1Le dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "HObbit",
           "kills": 11,
           "deaths": 20,
-          "adr": 98.26
+          "adr": 98.26,
+          "avatar": "https://i.pravatar.cc/150?img=13",
+          "bio": "HObbit is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "electroNic",
           "kills": 25,
           "deaths": 8,
-          "adr": 80.99
+          "adr": 80.99,
+          "avatar": "https://i.pravatar.cc/150?img=8",
+          "bio": "electroNic is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Perfecto",
           "kills": 11,
           "deaths": 10,
-          "adr": 56.24
+          "adr": 56.24,
+          "avatar": "https://i.pravatar.cc/150?img=14",
+          "bio": "Perfecto holds angles like a fortress, rarely missing a shot."
         }
       ],
       "secondTeam": [
@@ -134,31 +164,41 @@
           "name": "REZ",
           "kills": 15,
           "deaths": 8,
-          "adr": 92.95
+          "adr": 92.95,
+          "avatar": "https://i.pravatar.cc/150?img=15",
+          "bio": "REZ is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "Brollan",
           "kills": 20,
           "deaths": 14,
-          "adr": 118.15
+          "adr": 118.15,
+          "avatar": "https://i.pravatar.cc/150?img=16",
+          "bio": "Brollan is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "aleksib",
           "kills": 21,
           "deaths": 20,
-          "adr": 104.0
+          "adr": 104.0,
+          "avatar": "https://i.pravatar.cc/150?img=17",
+          "bio": "aleksib is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "es3tag",
           "kills": 24,
           "deaths": 8,
-          "adr": 80.87
+          "adr": 80.87,
+          "avatar": "https://i.pravatar.cc/150?img=18",
+          "bio": "es3tag brings solid rifling and smart rotates to every match."
         },
         {
           "name": "headtr1ck",
           "kills": 25,
           "deaths": 12,
-          "adr": 65.44
+          "adr": 65.44,
+          "avatar": "https://i.pravatar.cc/150?img=19",
+          "bio": "headtr1ck is a reliable support player with sharp aim and perfect utility usage."
         }
       ]
     }
@@ -184,31 +224,41 @@
           "name": "device",
           "kills": 17,
           "deaths": 15,
-          "adr": 76.4
+          "adr": 76.4,
+          "avatar": "https://i.pravatar.cc/150?img=20",
+          "bio": "device dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "blameF",
           "kills": 13,
           "deaths": 19,
-          "adr": 111.55
+          "adr": 111.55,
+          "avatar": "https://i.pravatar.cc/150?img=21",
+          "bio": "blameF is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "Buzz",
           "kills": 14,
           "deaths": 10,
-          "adr": 79.48
+          "adr": 79.48,
+          "avatar": "https://i.pravatar.cc/150?img=22",
+          "bio": "Buzz holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Staehr",
           "kills": 10,
           "deaths": 8,
-          "adr": 69.37
+          "adr": 69.37,
+          "avatar": "https://i.pravatar.cc/150?img=23",
+          "bio": "Staehr is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "b0RUP",
           "kills": 21,
           "deaths": 12,
-          "adr": 88.71
+          "adr": 88.71,
+          "avatar": "https://i.pravatar.cc/150?img=24",
+          "bio": "b0RUP is a fearless entry fragger with a knack for breaking open rounds."
         }
       ],
       "secondTeam": [
@@ -216,31 +266,41 @@
           "name": "s1mple",
           "kills": 8,
           "deaths": 10,
-          "adr": 95.95
+          "adr": 95.95,
+          "avatar": "https://i.pravatar.cc/150?img=6",
+          "bio": "s1mple holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "b1t",
           "kills": 13,
           "deaths": 14,
-          "adr": 114.49
+          "adr": 114.49,
+          "avatar": "https://i.pravatar.cc/150?img=7",
+          "bio": "b1t is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "electroNic",
           "kills": 9,
           "deaths": 9,
-          "adr": 86.77
+          "adr": 86.77,
+          "avatar": "https://i.pravatar.cc/150?img=8",
+          "bio": "electroNic is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "jL",
           "kills": 11,
           "deaths": 9,
-          "adr": 115.85
+          "adr": 115.85,
+          "avatar": "https://i.pravatar.cc/150?img=9",
+          "bio": "jL is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "IM",
           "kills": 16,
           "deaths": 12,
-          "adr": 77.85
+          "adr": 77.85,
+          "avatar": "https://i.pravatar.cc/150?img=10",
+          "bio": "IM brings solid rifling and smart rotates to every match."
         }
       ]
     }
@@ -265,31 +325,41 @@
           "name": "F1KU",
           "kills": 23,
           "deaths": 8,
-          "adr": 72.49
+          "adr": 72.49,
+          "avatar": "https://i.pravatar.cc/150?img=25",
+          "bio": "F1KU is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "NEOFRAG",
           "kills": 8,
           "deaths": 16,
-          "adr": 63.67
+          "adr": 63.67,
+          "avatar": "https://i.pravatar.cc/150?img=26",
+          "bio": "NEOFRAG brings solid rifling and smart rotates to every match."
         },
         {
           "name": "nexa",
           "kills": 8,
           "deaths": 17,
-          "adr": 114.12
+          "adr": 114.12,
+          "avatar": "https://i.pravatar.cc/150?img=27",
+          "bio": "nexa is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "flameZ",
           "kills": 17,
           "deaths": 8,
-          "adr": 72.29
+          "adr": 72.29,
+          "avatar": "https://i.pravatar.cc/150?img=28",
+          "bio": "flameZ dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "regali",
           "kills": 9,
           "deaths": 12,
-          "adr": 90.4
+          "adr": 90.4,
+          "avatar": "https://i.pravatar.cc/150?img=29",
+          "bio": "regali is a master of positioning and surprise plays on both sides."
         }
       ],
       "secondTeam": [
@@ -297,31 +367,41 @@
           "name": "ZywOo",
           "kills": 13,
           "deaths": 8,
-          "adr": 113.25
+          "adr": 113.25,
+          "avatar": "https://i.pravatar.cc/150?img=30",
+          "bio": "ZywOo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "apEX",
           "kills": 15,
           "deaths": 8,
-          "adr": 117.28
+          "adr": 117.28,
+          "avatar": "https://i.pravatar.cc/150?img=31",
+          "bio": "apEX is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "flameZ",
           "kills": 20,
           "deaths": 20,
-          "adr": 77.72
+          "adr": 77.72,
+          "avatar": "https://i.pravatar.cc/150?img=28",
+          "bio": "flameZ dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "Spinx",
           "kills": 15,
           "deaths": 15,
-          "adr": 63.93
+          "adr": 63.93,
+          "avatar": "https://i.pravatar.cc/150?img=32",
+          "bio": "Spinx is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Magisk",
           "kills": 24,
           "deaths": 10,
-          "adr": 77.13
+          "adr": 77.13,
+          "avatar": "https://i.pravatar.cc/150?img=33",
+          "bio": "Magisk is known for clutch plays and steady aim in high-pressure situations."
         }
       ]
     }
@@ -346,31 +426,41 @@
           "name": "donk",
           "kills": 14,
           "deaths": 11,
-          "adr": 87.42
+          "adr": 87.42,
+          "avatar": "https://i.pravatar.cc/150?img=34",
+          "bio": "donk brings solid rifling and smart rotates to every match."
         },
         {
           "name": "chopper",
           "kills": 11,
           "deaths": 13,
-          "adr": 65.64
+          "adr": 65.64,
+          "avatar": "https://i.pravatar.cc/150?img=35",
+          "bio": "chopper is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "magixx",
           "kills": 9,
           "deaths": 10,
-          "adr": 96.3
+          "adr": 96.3,
+          "avatar": "https://i.pravatar.cc/150?img=36",
+          "bio": "magixx dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "zont1x",
           "kills": 12,
           "deaths": 16,
-          "adr": 68.92
+          "adr": 68.92,
+          "avatar": "https://i.pravatar.cc/150?img=37",
+          "bio": "zont1x is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "artfr0st",
           "kills": 24,
           "deaths": 9,
-          "adr": 91.84
+          "adr": 91.84,
+          "avatar": "https://i.pravatar.cc/150?img=38",
+          "bio": "artfr0st holds angles like a fortress, rarely missing a shot."
         }
       ],
       "secondTeam": [
@@ -378,31 +468,41 @@
           "name": "frozen",
           "kills": 22,
           "deaths": 15,
-          "adr": 86.16
+          "adr": 86.16,
+          "avatar": "https://i.pravatar.cc/150?img=39",
+          "bio": "frozen is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "xertioN",
           "kills": 22,
           "deaths": 12,
-          "adr": 63.25
+          "adr": 63.25,
+          "avatar": "https://i.pravatar.cc/150?img=40",
+          "bio": "xertioN is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "torzsi",
           "kills": 23,
           "deaths": 20,
-          "adr": 85.13
+          "adr": 85.13,
+          "avatar": "https://i.pravatar.cc/150?img=41",
+          "bio": "torzsi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "Jimpphat",
           "kills": 11,
           "deaths": 19,
-          "adr": 63.64
+          "adr": 63.64,
+          "avatar": "https://i.pravatar.cc/150?img=42",
+          "bio": "Jimpphat brings solid rifling and smart rotates to every match."
         },
         {
           "name": "siuhy",
           "kills": 14,
           "deaths": 11,
-          "adr": 83.6
+          "adr": 83.6,
+          "avatar": "https://i.pravatar.cc/150?img=43",
+          "bio": "siuhy is a reliable support player with sharp aim and perfect utility usage."
         }
       ]
     }
@@ -428,31 +528,41 @@
           "name": "sh1ro",
           "kills": 19,
           "deaths": 13,
-          "adr": 64.79
+          "adr": 64.79,
+          "avatar": "https://i.pravatar.cc/150?img=11",
+          "bio": "sh1ro is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "Ax1Le",
           "kills": 25,
           "deaths": 8,
-          "adr": 69.4
+          "adr": 69.4,
+          "avatar": "https://i.pravatar.cc/150?img=12",
+          "bio": "Ax1Le dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "HObbit",
           "kills": 8,
           "deaths": 14,
-          "adr": 58.29
+          "adr": 58.29,
+          "avatar": "https://i.pravatar.cc/150?img=13",
+          "bio": "HObbit is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "electroNic",
           "kills": 21,
           "deaths": 11,
-          "adr": 71.04
+          "adr": 71.04,
+          "avatar": "https://i.pravatar.cc/150?img=8",
+          "bio": "electroNic is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Perfecto",
           "kills": 12,
           "deaths": 10,
-          "adr": 111.88
+          "adr": 111.88,
+          "avatar": "https://i.pravatar.cc/150?img=14",
+          "bio": "Perfecto holds angles like a fortress, rarely missing a shot."
         }
       ],
       "secondTeam": [
@@ -460,31 +570,41 @@
           "name": "ZywOo",
           "kills": 24,
           "deaths": 13,
-          "adr": 71.57
+          "adr": 71.57,
+          "avatar": "https://i.pravatar.cc/150?img=30",
+          "bio": "ZywOo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "apEX",
           "kills": 22,
           "deaths": 19,
-          "adr": 93.33
+          "adr": 93.33,
+          "avatar": "https://i.pravatar.cc/150?img=31",
+          "bio": "apEX is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "flameZ",
           "kills": 10,
           "deaths": 13,
-          "adr": 84.61
+          "adr": 84.61,
+          "avatar": "https://i.pravatar.cc/150?img=28",
+          "bio": "flameZ dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "Spinx",
           "kills": 19,
           "deaths": 17,
-          "adr": 86.65
+          "adr": 86.65,
+          "avatar": "https://i.pravatar.cc/150?img=32",
+          "bio": "Spinx is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Magisk",
           "kills": 10,
           "deaths": 14,
-          "adr": 73.51
+          "adr": 73.51,
+          "avatar": "https://i.pravatar.cc/150?img=33",
+          "bio": "Magisk is known for clutch plays and steady aim in high-pressure situations."
         }
       ]
     }
@@ -509,31 +629,41 @@
           "name": "device",
           "kills": 22,
           "deaths": 9,
-          "adr": 118.3
+          "adr": 118.3,
+          "avatar": "https://i.pravatar.cc/150?img=20",
+          "bio": "device dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "blameF",
           "kills": 13,
           "deaths": 13,
-          "adr": 53.5
+          "adr": 53.5,
+          "avatar": "https://i.pravatar.cc/150?img=21",
+          "bio": "blameF is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "Buzz",
           "kills": 15,
           "deaths": 18,
-          "adr": 57.33
+          "adr": 57.33,
+          "avatar": "https://i.pravatar.cc/150?img=22",
+          "bio": "Buzz holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Staehr",
           "kills": 14,
           "deaths": 11,
-          "adr": 92.62
+          "adr": 92.62,
+          "avatar": "https://i.pravatar.cc/150?img=23",
+          "bio": "Staehr is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "b0RUP",
           "kills": 20,
           "deaths": 8,
-          "adr": 72.03
+          "adr": 72.03,
+          "avatar": "https://i.pravatar.cc/150?img=24",
+          "bio": "b0RUP is a fearless entry fragger with a knack for breaking open rounds."
         }
       ],
       "secondTeam": [
@@ -541,31 +671,41 @@
           "name": "F1KU",
           "kills": 25,
           "deaths": 13,
-          "adr": 62.07
+          "adr": 62.07,
+          "avatar": "https://i.pravatar.cc/150?img=25",
+          "bio": "F1KU is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "NEOFRAG",
           "kills": 16,
           "deaths": 19,
-          "adr": 114.84
+          "adr": 114.84,
+          "avatar": "https://i.pravatar.cc/150?img=26",
+          "bio": "NEOFRAG brings solid rifling and smart rotates to every match."
         },
         {
           "name": "nexa",
           "kills": 14,
           "deaths": 9,
-          "adr": 55.64
+          "adr": 55.64,
+          "avatar": "https://i.pravatar.cc/150?img=27",
+          "bio": "nexa is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "flameZ",
           "kills": 21,
           "deaths": 10,
-          "adr": 85.42
+          "adr": 85.42,
+          "avatar": "https://i.pravatar.cc/150?img=28",
+          "bio": "flameZ dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "regali",
           "kills": 11,
           "deaths": 12,
-          "adr": 68.36
+          "adr": 68.36,
+          "avatar": "https://i.pravatar.cc/150?img=29",
+          "bio": "regali is a master of positioning and surprise plays on both sides."
         }
       ]
     }
@@ -590,31 +730,41 @@
           "name": "frozen",
           "kills": 17,
           "deaths": 11,
-          "adr": 88.1
+          "adr": 88.1,
+          "avatar": "https://i.pravatar.cc/150?img=39",
+          "bio": "frozen is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "xertioN",
           "kills": 24,
           "deaths": 8,
-          "adr": 116.53
+          "adr": 116.53,
+          "avatar": "https://i.pravatar.cc/150?img=40",
+          "bio": "xertioN is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "torzsi",
           "kills": 18,
           "deaths": 12,
-          "adr": 80.96
+          "adr": 80.96,
+          "avatar": "https://i.pravatar.cc/150?img=41",
+          "bio": "torzsi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "Jimpphat",
           "kills": 18,
           "deaths": 20,
-          "adr": 114.18
+          "adr": 114.18,
+          "avatar": "https://i.pravatar.cc/150?img=42",
+          "bio": "Jimpphat brings solid rifling and smart rotates to every match."
         },
         {
           "name": "siuhy",
           "kills": 16,
           "deaths": 10,
-          "adr": 79.89
+          "adr": 79.89,
+          "avatar": "https://i.pravatar.cc/150?img=43",
+          "bio": "siuhy is a reliable support player with sharp aim and perfect utility usage."
         }
       ],
       "secondTeam": [
@@ -622,31 +772,41 @@
           "name": "device",
           "kills": 24,
           "deaths": 13,
-          "adr": 89.36
+          "adr": 89.36,
+          "avatar": "https://i.pravatar.cc/150?img=20",
+          "bio": "device dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "blameF",
           "kills": 19,
           "deaths": 8,
-          "adr": 100.2
+          "adr": 100.2,
+          "avatar": "https://i.pravatar.cc/150?img=21",
+          "bio": "blameF is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "Buzz",
           "kills": 11,
           "deaths": 15,
-          "adr": 78.05
+          "adr": 78.05,
+          "avatar": "https://i.pravatar.cc/150?img=22",
+          "bio": "Buzz holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Staehr",
           "kills": 19,
           "deaths": 14,
-          "adr": 100.06
+          "adr": 100.06,
+          "avatar": "https://i.pravatar.cc/150?img=23",
+          "bio": "Staehr is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "b0RUP",
           "kills": 24,
           "deaths": 12,
-          "adr": 105.92
+          "adr": 105.92,
+          "avatar": "https://i.pravatar.cc/150?img=24",
+          "bio": "b0RUP is a fearless entry fragger with a knack for breaking open rounds."
         }
       ]
     }
@@ -671,31 +831,41 @@
           "name": "dycha",
           "kills": 17,
           "deaths": 11,
-          "adr": 59.6
+          "adr": 59.6,
+          "avatar": "https://i.pravatar.cc/150?img=44",
+          "bio": "dycha dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "NertZ",
           "kills": 9,
           "deaths": 9,
-          "adr": 79.27
+          "adr": 79.27,
+          "avatar": "https://i.pravatar.cc/150?img=45",
+          "bio": "NertZ is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "SunPayus",
           "kills": 25,
           "deaths": 9,
-          "adr": 74.5
+          "adr": 74.5,
+          "avatar": "https://i.pravatar.cc/150?img=46",
+          "bio": "SunPayus holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Maden",
           "kills": 13,
           "deaths": 8,
-          "adr": 102.94
+          "adr": 102.94,
+          "avatar": "https://i.pravatar.cc/150?img=47",
+          "bio": "Maden is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "sAw",
           "kills": 12,
           "deaths": 18,
-          "adr": 72.89
+          "adr": 72.89,
+          "avatar": "https://i.pravatar.cc/150?img=48",
+          "bio": "sAw is a fearless entry fragger with a knack for breaking open rounds."
         }
       ],
       "secondTeam": [
@@ -703,31 +873,41 @@
           "name": "frozen",
           "kills": 15,
           "deaths": 13,
-          "adr": 112.78
+          "adr": 112.78,
+          "avatar": "https://i.pravatar.cc/150?img=39",
+          "bio": "frozen is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "xertioN",
           "kills": 11,
           "deaths": 12,
-          "adr": 108.85
+          "adr": 108.85,
+          "avatar": "https://i.pravatar.cc/150?img=40",
+          "bio": "xertioN is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "torzsi",
           "kills": 17,
           "deaths": 9,
-          "adr": 106.99
+          "adr": 106.99,
+          "avatar": "https://i.pravatar.cc/150?img=41",
+          "bio": "torzsi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "Jimpphat",
           "kills": 25,
           "deaths": 9,
-          "adr": 103.74
+          "adr": 103.74,
+          "avatar": "https://i.pravatar.cc/150?img=42",
+          "bio": "Jimpphat brings solid rifling and smart rotates to every match."
         },
         {
           "name": "siuhy",
           "kills": 11,
           "deaths": 19,
-          "adr": 69.63
+          "adr": 69.63,
+          "avatar": "https://i.pravatar.cc/150?img=43",
+          "bio": "siuhy is a reliable support player with sharp aim and perfect utility usage."
         }
       ]
     }
@@ -752,31 +932,41 @@
           "name": "zorte",
           "kills": 19,
           "deaths": 17,
-          "adr": 63.31
+          "adr": 63.31,
+          "avatar": "https://i.pravatar.cc/150?img=49",
+          "bio": "zorte is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "KENSI",
           "kills": 18,
           "deaths": 8,
-          "adr": 86.53
+          "adr": 86.53,
+          "avatar": "https://i.pravatar.cc/150?img=50",
+          "bio": "KENSI brings solid rifling and smart rotates to every match."
         },
         {
           "name": "shalfey",
           "kills": 21,
           "deaths": 11,
-          "adr": 84.87
+          "adr": 84.87,
+          "avatar": "https://i.pravatar.cc/150?img=51",
+          "bio": "shalfey is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "Jerry",
           "kills": 13,
           "deaths": 20,
-          "adr": 77.84
+          "adr": 77.84,
+          "avatar": "https://i.pravatar.cc/150?img=52",
+          "bio": "Jerry dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "Norwi",
           "kills": 16,
           "deaths": 19,
-          "adr": 55.21
+          "adr": 55.21,
+          "avatar": "https://i.pravatar.cc/150?img=53",
+          "bio": "Norwi is a master of positioning and surprise plays on both sides."
         }
       ],
       "secondTeam": [
@@ -784,31 +974,41 @@
           "name": "NiKo",
           "kills": 25,
           "deaths": 14,
-          "adr": 53.29
+          "adr": 53.29,
+          "avatar": "https://i.pravatar.cc/150?img=54",
+          "bio": "NiKo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "huNter-",
           "kills": 21,
           "deaths": 13,
-          "adr": 109.16
+          "adr": 109.16,
+          "avatar": "https://i.pravatar.cc/150?img=55",
+          "bio": "huNter- is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "m0NESY",
           "kills": 11,
           "deaths": 10,
-          "adr": 95.85
+          "adr": 95.85,
+          "avatar": "https://i.pravatar.cc/150?img=56",
+          "bio": "m0NESY is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "HooXi",
           "kills": 11,
           "deaths": 17,
-          "adr": 75.59
+          "adr": 75.59,
+          "avatar": "https://i.pravatar.cc/150?img=57",
+          "bio": "HooXi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "jks",
           "kills": 17,
           "deaths": 19,
-          "adr": 116.54
+          "adr": 116.54,
+          "avatar": "https://i.pravatar.cc/150?img=58",
+          "bio": "jks brings solid rifling and smart rotates to every match."
         }
       ]
     }
@@ -833,31 +1033,41 @@
           "name": "NiKo",
           "kills": 17,
           "deaths": 11,
-          "adr": 56.33
+          "adr": 56.33,
+          "avatar": "https://i.pravatar.cc/150?img=54",
+          "bio": "NiKo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "huNter-",
           "kills": 20,
           "deaths": 18,
-          "adr": 85.82
+          "adr": 85.82,
+          "avatar": "https://i.pravatar.cc/150?img=55",
+          "bio": "huNter- is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "m0NESY",
           "kills": 16,
           "deaths": 12,
-          "adr": 67.67
+          "adr": 67.67,
+          "avatar": "https://i.pravatar.cc/150?img=56",
+          "bio": "m0NESY is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "HooXi",
           "kills": 17,
           "deaths": 16,
-          "adr": 67.94
+          "adr": 67.94,
+          "avatar": "https://i.pravatar.cc/150?img=57",
+          "bio": "HooXi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "jks",
           "kills": 24,
           "deaths": 17,
-          "adr": 116.91
+          "adr": 116.91,
+          "avatar": "https://i.pravatar.cc/150?img=58",
+          "bio": "jks brings solid rifling and smart rotates to every match."
         }
       ],
       "secondTeam": [
@@ -865,31 +1075,41 @@
           "name": "rain",
           "kills": 12,
           "deaths": 18,
-          "adr": 65.44
+          "adr": 65.44,
+          "avatar": "https://i.pravatar.cc/150?img=59",
+          "bio": "rain is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "ropz",
           "kills": 15,
           "deaths": 13,
-          "adr": 102.63
+          "adr": 102.63,
+          "avatar": "https://i.pravatar.cc/150?img=60",
+          "bio": "ropz dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "karrigan",
           "kills": 19,
           "deaths": 14,
-          "adr": 96.44
+          "adr": 96.44,
+          "avatar": "https://i.pravatar.cc/150?img=61",
+          "bio": "karrigan is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "broky",
           "kills": 16,
           "deaths": 19,
-          "adr": 64.72
+          "adr": 64.72,
+          "avatar": "https://i.pravatar.cc/150?img=62",
+          "bio": "broky holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Twistzz",
           "kills": 22,
           "deaths": 10,
-          "adr": 100.31
+          "adr": 100.31,
+          "avatar": "https://i.pravatar.cc/150?img=63",
+          "bio": "Twistzz is a versatile CS:GO player capable of flexing into any role."
         }
       ]
     }
@@ -914,31 +1134,41 @@
           "name": "frozen",
           "kills": 13,
           "deaths": 8,
-          "adr": 96.52
+          "adr": 96.52,
+          "avatar": "https://i.pravatar.cc/150?img=39",
+          "bio": "frozen is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "xertioN",
           "kills": 9,
           "deaths": 9,
-          "adr": 99.84
+          "adr": 99.84,
+          "avatar": "https://i.pravatar.cc/150?img=40",
+          "bio": "xertioN is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "torzsi",
           "kills": 8,
           "deaths": 10,
-          "adr": 85.73
+          "adr": 85.73,
+          "avatar": "https://i.pravatar.cc/150?img=41",
+          "bio": "torzsi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "Jimpphat",
           "kills": 9,
           "deaths": 9,
-          "adr": 80.85
+          "adr": 80.85,
+          "avatar": "https://i.pravatar.cc/150?img=42",
+          "bio": "Jimpphat brings solid rifling and smart rotates to every match."
         },
         {
           "name": "siuhy",
           "kills": 25,
           "deaths": 10,
-          "adr": 90.04
+          "adr": 90.04,
+          "avatar": "https://i.pravatar.cc/150?img=43",
+          "bio": "siuhy is a reliable support player with sharp aim and perfect utility usage."
         }
       ],
       "secondTeam": [
@@ -946,31 +1176,41 @@
           "name": "dycha",
           "kills": 18,
           "deaths": 10,
-          "adr": 74.42
+          "adr": 74.42,
+          "avatar": "https://i.pravatar.cc/150?img=44",
+          "bio": "dycha dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "NertZ",
           "kills": 9,
           "deaths": 17,
-          "adr": 102.06
+          "adr": 102.06,
+          "avatar": "https://i.pravatar.cc/150?img=45",
+          "bio": "NertZ is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "SunPayus",
           "kills": 19,
           "deaths": 19,
-          "adr": 55.43
+          "adr": 55.43,
+          "avatar": "https://i.pravatar.cc/150?img=46",
+          "bio": "SunPayus holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Maden",
           "kills": 17,
           "deaths": 12,
-          "adr": 98.88
+          "adr": 98.88,
+          "avatar": "https://i.pravatar.cc/150?img=47",
+          "bio": "Maden is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "sAw",
           "kills": 25,
           "deaths": 10,
-          "adr": 80.97
+          "adr": 80.97,
+          "avatar": "https://i.pravatar.cc/150?img=48",
+          "bio": "sAw is a fearless entry fragger with a knack for breaking open rounds."
         }
       ]
     }
@@ -996,31 +1236,41 @@
           "name": "ZywOo",
           "kills": 15,
           "deaths": 17,
-          "adr": 59.46
+          "adr": 59.46,
+          "avatar": "https://i.pravatar.cc/150?img=30",
+          "bio": "ZywOo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "apEX",
           "kills": 15,
           "deaths": 16,
-          "adr": 75.39
+          "adr": 75.39,
+          "avatar": "https://i.pravatar.cc/150?img=31",
+          "bio": "apEX is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "flameZ",
           "kills": 23,
           "deaths": 11,
-          "adr": 69.09
+          "adr": 69.09,
+          "avatar": "https://i.pravatar.cc/150?img=28",
+          "bio": "flameZ dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "Spinx",
           "kills": 24,
           "deaths": 15,
-          "adr": 58.32
+          "adr": 58.32,
+          "avatar": "https://i.pravatar.cc/150?img=32",
+          "bio": "Spinx is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Magisk",
           "kills": 19,
           "deaths": 9,
-          "adr": 51.69
+          "adr": 51.69,
+          "avatar": "https://i.pravatar.cc/150?img=33",
+          "bio": "Magisk is known for clutch plays and steady aim in high-pressure situations."
         }
       ],
       "secondTeam": [
@@ -1028,31 +1278,41 @@
           "name": "Jame",
           "kills": 19,
           "deaths": 9,
-          "adr": 99.15
+          "adr": 99.15,
+          "avatar": "https://i.pravatar.cc/150?img=64",
+          "bio": "Jame is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "FL1T",
           "kills": 9,
           "deaths": 10,
-          "adr": 97.47
+          "adr": 97.47,
+          "avatar": "https://i.pravatar.cc/150?img=65",
+          "bio": "FL1T is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "qikert",
           "kills": 13,
           "deaths": 14,
-          "adr": 77.43
+          "adr": 77.43,
+          "avatar": "https://i.pravatar.cc/150?img=66",
+          "bio": "qikert brings solid rifling and smart rotates to every match."
         },
         {
           "name": "n0rb3r7",
           "kills": 25,
           "deaths": 15,
-          "adr": 103.59
+          "adr": 103.59,
+          "avatar": "https://i.pravatar.cc/150?img=67",
+          "bio": "n0rb3r7 is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "fame",
           "kills": 25,
           "deaths": 11,
-          "adr": 88.62
+          "adr": 88.62,
+          "avatar": "https://i.pravatar.cc/150?img=68",
+          "bio": "fame dominates the server with aggressive peeks and crisp headshots."
         }
       ]
     }
@@ -1077,31 +1337,41 @@
           "name": "dycha",
           "kills": 14,
           "deaths": 19,
-          "adr": 73.11
+          "adr": 73.11,
+          "avatar": "https://i.pravatar.cc/150?img=44",
+          "bio": "dycha dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "NertZ",
           "kills": 8,
           "deaths": 17,
-          "adr": 79.66
+          "adr": 79.66,
+          "avatar": "https://i.pravatar.cc/150?img=45",
+          "bio": "NertZ is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "SunPayus",
           "kills": 8,
           "deaths": 11,
-          "adr": 74.05
+          "adr": 74.05,
+          "avatar": "https://i.pravatar.cc/150?img=46",
+          "bio": "SunPayus holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Maden",
           "kills": 10,
           "deaths": 13,
-          "adr": 66.34
+          "adr": 66.34,
+          "avatar": "https://i.pravatar.cc/150?img=47",
+          "bio": "Maden is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "sAw",
           "kills": 15,
           "deaths": 17,
-          "adr": 108.38
+          "adr": 108.38,
+          "avatar": "https://i.pravatar.cc/150?img=48",
+          "bio": "sAw is a fearless entry fragger with a knack for breaking open rounds."
         }
       ],
       "secondTeam": [
@@ -1109,31 +1379,41 @@
           "name": "donk",
           "kills": 8,
           "deaths": 8,
-          "adr": 57.55
+          "adr": 57.55,
+          "avatar": "https://i.pravatar.cc/150?img=34",
+          "bio": "donk brings solid rifling and smart rotates to every match."
         },
         {
           "name": "chopper",
           "kills": 9,
           "deaths": 16,
-          "adr": 82.64
+          "adr": 82.64,
+          "avatar": "https://i.pravatar.cc/150?img=35",
+          "bio": "chopper is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "magixx",
           "kills": 25,
           "deaths": 15,
-          "adr": 100.12
+          "adr": 100.12,
+          "avatar": "https://i.pravatar.cc/150?img=36",
+          "bio": "magixx dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "zont1x",
           "kills": 8,
           "deaths": 16,
-          "adr": 57.43
+          "adr": 57.43,
+          "avatar": "https://i.pravatar.cc/150?img=37",
+          "bio": "zont1x is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "artfr0st",
           "kills": 22,
           "deaths": 17,
-          "adr": 78.26
+          "adr": 78.26,
+          "avatar": "https://i.pravatar.cc/150?img=38",
+          "bio": "artfr0st holds angles like a fortress, rarely missing a shot."
         }
       ]
     }
@@ -1158,31 +1438,41 @@
           "name": "stavn",
           "kills": 20,
           "deaths": 9,
-          "adr": 80.07
+          "adr": 80.07,
+          "avatar": "https://i.pravatar.cc/150?img=69",
+          "bio": "stavn is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "jabbi",
           "kills": 22,
           "deaths": 16,
-          "adr": 106.4
+          "adr": 106.4,
+          "avatar": "https://i.pravatar.cc/150?img=70",
+          "bio": "jabbi holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "TeSeS",
           "kills": 11,
           "deaths": 17,
-          "adr": 50.07
+          "adr": 50.07,
+          "avatar": "https://i.pravatar.cc/150?img=71",
+          "bio": "TeSeS is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "sjuush",
           "kills": 13,
           "deaths": 10,
-          "adr": 101.88
+          "adr": 101.88,
+          "avatar": "https://i.pravatar.cc/150?img=72",
+          "bio": "sjuush is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "cadiaN",
           "kills": 15,
           "deaths": 18,
-          "adr": 73.64
+          "adr": 73.64,
+          "avatar": "https://i.pravatar.cc/150?img=73",
+          "bio": "cadiaN is known for clutch plays and steady aim in high-pressure situations."
         }
       ],
       "secondTeam": [
@@ -1190,31 +1480,41 @@
           "name": "tabseN",
           "kills": 14,
           "deaths": 9,
-          "adr": 85.69
+          "adr": 85.69,
+          "avatar": "https://i.pravatar.cc/150?img=74",
+          "bio": "tabseN brings solid rifling and smart rotates to every match."
         },
         {
           "name": "k1to",
           "kills": 18,
           "deaths": 10,
-          "adr": 64.91
+          "adr": 64.91,
+          "avatar": "https://i.pravatar.cc/150?img=75",
+          "bio": "k1to is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "Krimbo",
           "kills": 13,
           "deaths": 17,
-          "adr": 75.63
+          "adr": 75.63,
+          "avatar": "https://i.pravatar.cc/150?img=76",
+          "bio": "Krimbo dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "prosus",
           "kills": 17,
           "deaths": 20,
-          "adr": 105.13
+          "adr": 105.13,
+          "avatar": "https://i.pravatar.cc/150?img=77",
+          "bio": "prosus is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "s1n",
           "kills": 19,
           "deaths": 13,
-          "adr": 91.55
+          "adr": 91.55,
+          "avatar": "https://i.pravatar.cc/150?img=78",
+          "bio": "s1n holds angles like a fortress, rarely missing a shot."
         }
       ]
     }
@@ -1239,31 +1539,41 @@
           "name": "KEi",
           "kills": 21,
           "deaths": 12,
-          "adr": 53.99
+          "adr": 53.99,
+          "avatar": "https://i.pravatar.cc/150?img=79",
+          "bio": "KEi is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "Goofy",
           "kills": 13,
           "deaths": 14,
-          "adr": 74.73
+          "adr": 74.73,
+          "avatar": "https://i.pravatar.cc/150?img=80",
+          "bio": "Goofy is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "hades",
           "kills": 11,
           "deaths": 20,
-          "adr": 79.88
+          "adr": 79.88,
+          "avatar": "https://i.pravatar.cc/150?img=81",
+          "bio": "hades is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "Kylar",
           "kills": 21,
           "deaths": 10,
-          "adr": 93.53
+          "adr": 93.53,
+          "avatar": "https://i.pravatar.cc/150?img=82",
+          "bio": "Kylar brings solid rifling and smart rotates to every match."
         },
         {
           "name": "mynio",
           "kills": 20,
           "deaths": 17,
-          "adr": 74.75
+          "adr": 74.75,
+          "avatar": "https://i.pravatar.cc/150?img=83",
+          "bio": "mynio is a reliable support player with sharp aim and perfect utility usage."
         }
       ],
       "secondTeam": [
@@ -1271,31 +1581,41 @@
           "name": "ZywOo",
           "kills": 18,
           "deaths": 8,
-          "adr": 95.26
+          "adr": 95.26,
+          "avatar": "https://i.pravatar.cc/150?img=30",
+          "bio": "ZywOo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "apEX",
           "kills": 23,
           "deaths": 17,
-          "adr": 80.33
+          "adr": 80.33,
+          "avatar": "https://i.pravatar.cc/150?img=31",
+          "bio": "apEX is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "flameZ",
           "kills": 14,
           "deaths": 10,
-          "adr": 113.77
+          "adr": 113.77,
+          "avatar": "https://i.pravatar.cc/150?img=28",
+          "bio": "flameZ dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "Spinx",
           "kills": 22,
           "deaths": 12,
-          "adr": 104.93
+          "adr": 104.93,
+          "avatar": "https://i.pravatar.cc/150?img=32",
+          "bio": "Spinx is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Magisk",
           "kills": 12,
           "deaths": 8,
-          "adr": 85.75
+          "adr": 85.75,
+          "avatar": "https://i.pravatar.cc/150?img=33",
+          "bio": "Magisk is known for clutch plays and steady aim in high-pressure situations."
         }
       ]
     }
@@ -1320,31 +1640,41 @@
           "name": "rain",
           "kills": 17,
           "deaths": 9,
-          "adr": 105.09
+          "adr": 105.09,
+          "avatar": "https://i.pravatar.cc/150?img=59",
+          "bio": "rain is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "ropz",
           "kills": 22,
           "deaths": 16,
-          "adr": 89.37
+          "adr": 89.37,
+          "avatar": "https://i.pravatar.cc/150?img=60",
+          "bio": "ropz dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "karrigan",
           "kills": 18,
           "deaths": 20,
-          "adr": 53.21
+          "adr": 53.21,
+          "avatar": "https://i.pravatar.cc/150?img=61",
+          "bio": "karrigan is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "broky",
           "kills": 21,
           "deaths": 13,
-          "adr": 111.23
+          "adr": 111.23,
+          "avatar": "https://i.pravatar.cc/150?img=62",
+          "bio": "broky holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Twistzz",
           "kills": 20,
           "deaths": 17,
-          "adr": 67.84
+          "adr": 67.84,
+          "avatar": "https://i.pravatar.cc/150?img=63",
+          "bio": "Twistzz is a versatile CS:GO player capable of flexing into any role."
         }
       ],
       "secondTeam": [
@@ -1352,31 +1682,41 @@
           "name": "donk",
           "kills": 20,
           "deaths": 20,
-          "adr": 119.27
+          "adr": 119.27,
+          "avatar": "https://i.pravatar.cc/150?img=34",
+          "bio": "donk brings solid rifling and smart rotates to every match."
         },
         {
           "name": "chopper",
           "kills": 21,
           "deaths": 8,
-          "adr": 56.28
+          "adr": 56.28,
+          "avatar": "https://i.pravatar.cc/150?img=35",
+          "bio": "chopper is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "magixx",
           "kills": 16,
           "deaths": 12,
-          "adr": 66.89
+          "adr": 66.89,
+          "avatar": "https://i.pravatar.cc/150?img=36",
+          "bio": "magixx dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "zont1x",
           "kills": 24,
           "deaths": 15,
-          "adr": 89.91
+          "adr": 89.91,
+          "avatar": "https://i.pravatar.cc/150?img=37",
+          "bio": "zont1x is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "artfr0st",
           "kills": 14,
           "deaths": 10,
-          "adr": 113.83
+          "adr": 113.83,
+          "avatar": "https://i.pravatar.cc/150?img=38",
+          "bio": "artfr0st holds angles like a fortress, rarely missing a shot."
         }
       ]
     }
@@ -1402,31 +1742,41 @@
           "name": "NAF",
           "kills": 16,
           "deaths": 17,
-          "adr": 106.17
+          "adr": 106.17,
+          "avatar": "https://i.pravatar.cc/150?img=84",
+          "bio": "NAF dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "oSee",
           "kills": 18,
           "deaths": 17,
-          "adr": 115.26
+          "adr": 115.26,
+          "avatar": "https://i.pravatar.cc/150?img=85",
+          "bio": "oSee is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "YEKINDAR",
           "kills": 19,
           "deaths": 14,
-          "adr": 57.94
+          "adr": 57.94,
+          "avatar": "https://i.pravatar.cc/150?img=86",
+          "bio": "YEKINDAR holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Patsi",
           "kills": 11,
           "deaths": 15,
-          "adr": 53.84
+          "adr": 53.84,
+          "avatar": "https://i.pravatar.cc/150?img=87",
+          "bio": "Patsi is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "cadiaN",
           "kills": 21,
           "deaths": 17,
-          "adr": 99.35
+          "adr": 99.35,
+          "avatar": "https://i.pravatar.cc/150?img=73",
+          "bio": "cadiaN is known for clutch plays and steady aim in high-pressure situations."
         }
       ],
       "secondTeam": [
@@ -1434,31 +1784,41 @@
           "name": "sh1ro",
           "kills": 12,
           "deaths": 17,
-          "adr": 61.63
+          "adr": 61.63,
+          "avatar": "https://i.pravatar.cc/150?img=11",
+          "bio": "sh1ro is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "Ax1Le",
           "kills": 21,
           "deaths": 18,
-          "adr": 77.01
+          "adr": 77.01,
+          "avatar": "https://i.pravatar.cc/150?img=12",
+          "bio": "Ax1Le dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "HObbit",
           "kills": 15,
           "deaths": 13,
-          "adr": 55.13
+          "adr": 55.13,
+          "avatar": "https://i.pravatar.cc/150?img=13",
+          "bio": "HObbit is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "electroNic",
           "kills": 17,
           "deaths": 19,
-          "adr": 87.77
+          "adr": 87.77,
+          "avatar": "https://i.pravatar.cc/150?img=8",
+          "bio": "electroNic is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Perfecto",
           "kills": 22,
           "deaths": 19,
-          "adr": 53.94
+          "adr": 53.94,
+          "avatar": "https://i.pravatar.cc/150?img=14",
+          "bio": "Perfecto holds angles like a fortress, rarely missing a shot."
         }
       ]
     }
@@ -1485,31 +1845,41 @@
           "name": "sh1ro",
           "kills": 23,
           "deaths": 14,
-          "adr": 117.43
+          "adr": 117.43,
+          "avatar": "https://i.pravatar.cc/150?img=11",
+          "bio": "sh1ro is a reliable support player with sharp aim and perfect utility usage."
         },
         {
           "name": "Ax1Le",
           "kills": 9,
           "deaths": 11,
-          "adr": 97.83
+          "adr": 97.83,
+          "avatar": "https://i.pravatar.cc/150?img=12",
+          "bio": "Ax1Le dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "HObbit",
           "kills": 9,
           "deaths": 13,
-          "adr": 100.09
+          "adr": 100.09,
+          "avatar": "https://i.pravatar.cc/150?img=13",
+          "bio": "HObbit is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "electroNic",
           "kills": 19,
           "deaths": 9,
-          "adr": 86.22
+          "adr": 86.22,
+          "avatar": "https://i.pravatar.cc/150?img=8",
+          "bio": "electroNic is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "Perfecto",
           "kills": 14,
           "deaths": 13,
-          "adr": 67.52
+          "adr": 67.52,
+          "avatar": "https://i.pravatar.cc/150?img=14",
+          "bio": "Perfecto holds angles like a fortress, rarely missing a shot."
         }
       ],
       "secondTeam": [
@@ -1517,31 +1887,41 @@
           "name": "REZ",
           "kills": 9,
           "deaths": 20,
-          "adr": 98.24
+          "adr": 98.24,
+          "avatar": "https://i.pravatar.cc/150?img=15",
+          "bio": "REZ is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "Brollan",
           "kills": 13,
           "deaths": 13,
-          "adr": 62.75
+          "adr": 62.75,
+          "avatar": "https://i.pravatar.cc/150?img=16",
+          "bio": "Brollan is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "aleksib",
           "kills": 24,
           "deaths": 19,
-          "adr": 109.74
+          "adr": 109.74,
+          "avatar": "https://i.pravatar.cc/150?img=17",
+          "bio": "aleksib is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "es3tag",
           "kills": 24,
           "deaths": 14,
-          "adr": 52.42
+          "adr": 52.42,
+          "avatar": "https://i.pravatar.cc/150?img=18",
+          "bio": "es3tag brings solid rifling and smart rotates to every match."
         },
         {
           "name": "headtr1ck",
           "kills": 18,
           "deaths": 9,
-          "adr": 67.9
+          "adr": 67.9,
+          "avatar": "https://i.pravatar.cc/150?img=19",
+          "bio": "headtr1ck is a reliable support player with sharp aim and perfect utility usage."
         }
       ]
     }
@@ -1566,31 +1946,41 @@
           "name": "dycha",
           "kills": 13,
           "deaths": 19,
-          "adr": 117.58
+          "adr": 117.58,
+          "avatar": "https://i.pravatar.cc/150?img=44",
+          "bio": "dycha dominates the server with aggressive peeks and crisp headshots."
         },
         {
           "name": "NertZ",
           "kills": 20,
           "deaths": 12,
-          "adr": 70.67
+          "adr": 70.67,
+          "avatar": "https://i.pravatar.cc/150?img=45",
+          "bio": "NertZ is a master of positioning and surprise plays on both sides."
         },
         {
           "name": "SunPayus",
           "kills": 17,
           "deaths": 14,
-          "adr": 64.69
+          "adr": 64.69,
+          "avatar": "https://i.pravatar.cc/150?img=46",
+          "bio": "SunPayus holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "Maden",
           "kills": 18,
           "deaths": 17,
-          "adr": 71.32
+          "adr": 71.32,
+          "avatar": "https://i.pravatar.cc/150?img=47",
+          "bio": "Maden is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "sAw",
           "kills": 16,
           "deaths": 11,
-          "adr": 89.2
+          "adr": 89.2,
+          "avatar": "https://i.pravatar.cc/150?img=48",
+          "bio": "sAw is a fearless entry fragger with a knack for breaking open rounds."
         }
       ],
       "secondTeam": [
@@ -1598,31 +1988,41 @@
           "name": "NiKo",
           "kills": 16,
           "deaths": 11,
-          "adr": 85.59
+          "adr": 85.59,
+          "avatar": "https://i.pravatar.cc/150?img=54",
+          "bio": "NiKo holds angles like a fortress, rarely missing a shot."
         },
         {
           "name": "huNter-",
           "kills": 19,
           "deaths": 10,
-          "adr": 59.74
+          "adr": 59.74,
+          "avatar": "https://i.pravatar.cc/150?img=55",
+          "bio": "huNter- is a versatile CS:GO player capable of flexing into any role."
         },
         {
           "name": "m0NESY",
           "kills": 14,
           "deaths": 20,
-          "adr": 104.22
+          "adr": 104.22,
+          "avatar": "https://i.pravatar.cc/150?img=56",
+          "bio": "m0NESY is a fearless entry fragger with a knack for breaking open rounds."
         },
         {
           "name": "HooXi",
           "kills": 9,
           "deaths": 20,
-          "adr": 54.48
+          "adr": 54.48,
+          "avatar": "https://i.pravatar.cc/150?img=57",
+          "bio": "HooXi is known for clutch plays and steady aim in high-pressure situations."
         },
         {
           "name": "jks",
           "kills": 10,
           "deaths": 9,
-          "adr": 90.34
+          "adr": 90.34,
+          "avatar": "https://i.pravatar.cc/150?img=58",
+          "bio": "jks brings solid rifling and smart rotates to every match."
         }
       ]
     }

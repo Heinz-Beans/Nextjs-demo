@@ -13,6 +13,8 @@ export type Match = {
 };
 
 export type Player = {
+  avatar?: string;
+  bio?: string;
   name: string;
   kills: number;
   deaths: number;
