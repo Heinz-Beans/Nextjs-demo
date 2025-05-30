@@ -1,7 +1,6 @@
 import { Match } from "@/components/blocks/match";
 import { getMatchDetail } from "@/lib/data";
 import { Match as MatchType } from "@/lib/types";
-import Link from "next/link";
 
 async function MatchDetailPage({ params }: { params: Promise<{ matchId: string }> }) {
   const { matchId } = await params;
@@ -18,13 +17,6 @@ async function MatchDetailPage({ params }: { params: Promise<{ matchId: string }
     console.error("Error fetching match detail:", error);
   }
 
-  return (
-    <div className="flex items-center w-full flex-col p-20">
-      {match ? <Match match={match} /> : <span className="text-error-main bold text-6xl">Match not found</span>}
-      <Link href="/">
-        <span>Back to home</span>
-      </Link>
-    </div>
-  );
+  return <div className="flex items-center w-full flex-col p-20">{match ? <Match match={match} /> : <span className="text-error-main bold text-6xl">Match not found</span>}</div>;
 }
 export default MatchDetailPage;

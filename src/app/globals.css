@@ -104,6 +104,7 @@
   --gradient-info-main: linear-gradient(136deg, #0A1A7F 0%, #0B1556 100%), radial-gradient(103.24% 76.23% at 29.35% 15.7%, #0A1A7F 0%, #0B1556 100%);
   --gradient-green-strip-r: linear-gradient(90deg, #51537D 99%, #71FFCC 100%);
   --gradient-green-strip-l: linear-gradient(-90deg, #51537D 99%, #71FFCC 100%);
+  --gradient-divider: linear-gradient(90deg, #01020F 0%, #0187BE 50%, #020731 100%);
 }
 
 :root {

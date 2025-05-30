@@ -1,53 +1,29 @@
 "use client";
 
-import { ArrowUp, ArrowDown } from "lucide-react";
 import { Player } from "@/lib/types";
 import { ColumnDef } from "@tanstack/react-table";
-import { Button } from "@/components/ui/button";
+import { SortableHeader } from "@/components/ui/sortableHeader";
 
 export const columns: ColumnDef<Player>[] = [
   {
     accessorKey: "name",
-    header: ({ column }) => (
-      <button onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}>
-        <span className="flex items-center gap-2">
-          Player
-          {column.getIsSorted() === "asc" ? <ArrowUp className="w-[16px]" /> : column.getIsSorted() === "desc" ? <ArrowDown className="w-[16px]" /> : <div className="w-[16px]" />}
-        </span>
-      </button>
-    ),
+    header: ({ column }) => <SortableHeader column={column} label="Player" />,
+    sortingFn: (rowA, rowB, columnId) => {
+      const valueA = (rowA.getValue(columnId) as string).toLowerCase();
+      const valueB = (rowB.getValue(columnId) as string).toLowerCase();
+      return valueA.localeCompare(valueB);
+    },
   },
   {
     accessorKey: "kills",
-    header: ({ column }) => (
-      <button onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}>
-        <span className="flex items-center gap-2">
-          Kills
-          {column.getIsSorted() === "asc" ? <ArrowUp className="w-[16px]" /> : column.getIsSorted() === "desc" ? <ArrowDown className="w-[16px]" /> : <div className="w-[16px]" />}
-        </span>
-      </button>
-    ),
+    header: ({ column }) => <SortableHeader column={column} label="Kills" />,
   },
   {
     accessorKey: "deaths",
-    header: ({ column }) => (
-      <button onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}>
-        <span className="flex items-center gap-2">
-          Deaths
-          {column.getIsSorted() === "asc" ? <ArrowUp className="w-[16px]" /> : column.getIsSorted() === "desc" ? <ArrowDown className="w-[16px]" /> : <div className="w-[16px]" />}
-        </span>
-      </button>
-    ),
+    header: ({ column }) => <SortableHeader column={column} label="Deaths" />,
   },
   {
     accessorKey: "adr",
-    header: ({ column }) => (
-      <button onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}>
-        <span className="flex items-center gap-2">
-          ADR
-          {column.getIsSorted() === "asc" ? <ArrowUp className="w-[16px]" /> : column.getIsSorted() === "desc" ? <ArrowDown className="w-[16px]" /> : <div className="w-[16px]" />}
-        </span>
-      </button>
-    ),
+    header: ({ column }) => <SortableHeader column={column} label="ADR" />,
   },
 ];

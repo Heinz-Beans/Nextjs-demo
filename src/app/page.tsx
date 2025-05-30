@@ -1,35 +1,26 @@
-import { getMatches } from '@/lib/data';
-import Link from 'next/link';
+import { Match } from "@/components/blocks/match";
+import { columns } from "@/components/blocks/matches/columns";
+import MatchesTable from "@/components/blocks/matches/matchesTable";
+import { getMatches } from "@/lib/data";
+import { Match as MatchType } from "@/lib/types";
+import Link from "next/link";
 
 export default async function Home() {
-
-  const data = await getMatches();
-  console.log('data :>> ', data);
+  const data: MatchType[] = await getMatches();
+  const selectedMatch = 1; //TODO temp
+  console.log("data :>> ", data);
 
   return (
-    <div>
-      <h1>tu bude homepage</h1>
-      <div>searchbar</div>
-      <div>filter bubbles</div>
+    <div className="text-white p-20">
+      <div>smart searchbar with filter bubbles</div>
+      <div>simple search from tanstack table</div>
       <div>
-        <h2>match listing</h2>
-        <div>
-          <h3>match[x]</h3>
-          <div>match[x] simplified details</div>
-        </div>
+        <MatchesTable data={data} columns={columns} />
       </div>
+      <div className="my-10 bg-(image:--gradient-divider) h-[10px]" />
       <div>
-        <h2>match full detail - same component as match detail route</h2>
-        <div>map name</div>
-        <div>team1 name</div>
-        <div>score</div>
-        <div>team2 name</div>
-        <div>team1 playerlist</div>
-        <div>team2 playerlist</div>
+        <Match match={data[selectedMatch]} />
       </div>
-      <Link href="/match/1" target="_blank">
-        <span>open match detail in new tab</span>
-      </Link>
     </div>
   );
 }
