@@ -1,5 +1,3 @@
-"use client";
-
 import { PlayerDetails } from "@/components/ui/playerDetails";
 import { SortableHeader } from "@/components/ui/sortableHeader";
 import { Player } from "@/lib/types";

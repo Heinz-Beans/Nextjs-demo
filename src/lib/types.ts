@@ -28,7 +28,7 @@ export type Team = {
 };
 
 export type Filter = {
-  team: string;
-  player: string;
-  map: string;
+  team: number[];
+  player: number[];
+  map: number[];
 };

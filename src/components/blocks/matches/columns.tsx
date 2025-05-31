@@ -1,9 +1,7 @@
-"use client";
-
 import { Button } from "@/components/ui/button";
+import { SortableHeader } from "@/components/ui/sortableHeader";
 import { Match } from "@/lib/types";
 import { ColumnDef } from "@tanstack/react-table";
-import { SortableHeader } from "@/components/ui/sortableHeader";
 import { ExternalLink } from "lucide-react";
 
 export const columns: ColumnDef<Match>[] = [
