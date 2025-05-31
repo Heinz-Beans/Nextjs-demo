@@ -1,17 +1,35 @@
-import { X } from "lucide-react";
+"use client";
+
+import { FilterTypes } from "@/lib/types";
+import { useAppStore } from "@/stores/appStore";
 import { memo } from "react";
-import { Badge } from "../ui/badge";
+import { CustomBadge } from "../ui/customBadge";
 
 export const FilterTags = memo(function FilterTags() {
+  const { filters, removeFilter } = useAppStore();
+
   return (
-    <div>
-      {Array.from({ length: 12 }, (_, i) => (
-        <Badge key={i} className="bg-blue-200 text-black">
-          {`Filter ${i + 1}`}
-          <button className="">
-            <X size={14} />
-          </button>
-        </Badge>
+    <div className="flex gap-1 flex-wrap">
+      {Object.keys(filters[FilterTypes.MAP] || {}).map((mapName, i) => (
+        <CustomBadge
+          text={`map:${mapName}`}
+          key={i}
+          onClick={() => removeFilter(FilterTypes.MAP, mapName)}
+        />
+      ))}
+      {Object.keys(filters[FilterTypes.TEAM] || {}).map((teamName, i) => (
+        <CustomBadge
+          text={`team:${teamName}`}
+          key={i}
+          onClick={() => removeFilter(FilterTypes.TEAM, teamName)}
+        />
+      ))}
+      {Object.keys(filters[FilterTypes.PLAYER] || {}).map((playerName, i) => (
+        <CustomBadge
+          text={`player:${playerName}`}
+          key={i}
+          onClick={() => removeFilter(FilterTypes.PLAYER, playerName)}
+        />
       ))}
     </div>
   );

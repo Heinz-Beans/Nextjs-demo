@@ -1,9 +1,11 @@
 import data from "../mock/data.json";
-import { Match } from "./types";
+import { IndexType, Match } from "./types";
 
-const matches: Match[] = [...data] as Match[];
-
-export type IndexType = Record<string, number[]>;//TODO review this.. also filter ttype
+let matches: Match[] = [...data] as Match[];
+matches = matches.map((match, index) => ({
+  ...match,
+  id: index,
+}));
 
 let indexesBuilt = false
 let mapIndex:IndexType  = {}
@@ -39,10 +41,16 @@ const buildIndexes = () => {
   indexesBuilt = true
 }
 
-export async function getMatches(): Promise<Match[]> {
+export async function getMatches(ids?: number[]): Promise<Match[]> {
   return new Promise((resolve) => {
     setTimeout(() => {
+      if (!ids || ids.length === 0) {
       resolve(matches);
+      }
+      else{
+        const filteredMatches = matches.filter((_, index) => ids.includes(index));
+        resolve(filteredMatches);
+      }
     }, 250); //Simulate network delay
   });
 }
@@ -55,15 +63,6 @@ export async function getMatchDetail(matchId: number): Promise<Match> {
       }
 
       resolve(matches[matchId]);
-    }, 250);
-  });
-}
-
-export async function getMatchesByIds(ids: number[]): Promise<Match[]> {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      const filteredMatches = matches.filter((_, index) => ids.includes(index));
-      resolve(filteredMatches);
     }, 250);
   });
 }

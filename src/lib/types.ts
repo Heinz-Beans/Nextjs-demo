@@ -1,4 +1,5 @@
 export type Match = {
+  id: number;
   mapName: string;
   firstTeam: Team;
   secondTeam: Team;
@@ -27,8 +28,19 @@ export type Team = {
   logo?: string;
 };
 
-export type Filter = {
+
+export type IndexType = Record<string, number[]>;
+
+export type FilterObj = {
   team: number[];
   player: number[];
   map: number[];
 };
+
+export const FilterTypes = Object.freeze({
+	TEAM: 'team',
+  PLAYER: 'player',
+  MAP: 'map',
+});
+
+export type FilterType = (typeof FilterTypes)[keyof typeof FilterTypes];

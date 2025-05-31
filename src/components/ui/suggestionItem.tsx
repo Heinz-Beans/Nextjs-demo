@@ -1,5 +1,8 @@
-import { IndexType } from "@/lib/mockApi";
-import { memo } from "react";
+"use client";
+
+import { FilterType, IndexType } from "@/lib/types";
+import { useAppStore } from "@/stores/appStore";
+import { memo, useCallback } from "react";
 import { CommandItem } from "./command";
 
 export const SuggestionItem = memo(function SuggestionItem({
@@ -7,19 +10,21 @@ export const SuggestionItem = memo(function SuggestionItem({
   prefix = "team",
 }: {
   index: IndexType;
-  prefix?: "team" | "player" | "map";
+  prefix?: FilterType;
 }) {
-  //set filters into zustand store to avoid passing onselects //TODO
+  const { setFilter } = useAppStore();
+
+  const addFilter = useCallback((keyName: string, matchIndexes: number[]) => {
+    setFilter(prefix, keyName, matchIndexes);
+  }, []);
+
   return (
     <>
       {Object.entries(index).map(([keyName, matchIndexes], i) => (
         <CommandItem
           key={i}
           value={keyName}
-          onSelect={() => {
-            //TODO set into zustand store
-            console.log(`Selected: ${keyName} with matches: ${matchIndexes}`);
-          }}
+          onSelect={() => addFilter(keyName, matchIndexes)}
         >
           {`${prefix}:${keyName}`}
         </CommandItem>

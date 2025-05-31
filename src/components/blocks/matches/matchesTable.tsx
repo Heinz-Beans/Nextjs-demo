@@ -27,17 +27,32 @@ import {
   SortingState,
   useReactTable,
 } from "@tanstack/react-table";
-import { memo, useCallback, useState } from "react";
+import { memo, useCallback, useMemo, useState } from "react";
 import { columns } from "./columns";
 
 export const MatchesTable = memo(function MatchesTable() {
-  const { data, isLoading, error } = useMatches();
   const [sorting, setSorting] = useState<SortingState>([]);
-  const { selectedMatchId, setSelectedMatchId } = useAppStore();
+  const { selectedMatchId, setSelectedMatchId, filters } = useAppStore();
 
   const setMatchCb = useCallback((index: number) => {
     setSelectedMatchId(index);
   }, []);
+
+  const combinedIds = useMemo(() => {
+    if (!filters) {
+      return undefined;
+    }
+    const { map, team, player } = filters;
+    const allIds = [
+      ...Object.values(map || {}),
+      ...Object.values(team || {}),
+      ...Object.values(player || {}),
+    ];
+
+    return [...new Set(allIds.flat())];
+  }, [filters]);
+
+  const { data, isLoading, error } = useMatches(combinedIds);
 
   const table = useReactTable({
     data: data || [],
@@ -89,8 +104,8 @@ export const MatchesTable = memo(function MatchesTable() {
           {table.getRowModel().rows.map((row) => (
             <TableRow
               key={row.id}
-              className={row.index === selectedMatchId ? "bg-grey-500" : ""}
-              onClick={() => setMatchCb(row.index)}
+              className={row.original.id === selectedMatchId ? "bg-grey-500" : ""}
+              onClick={() => setMatchCb(row.original.id)}
             >
               {row.getVisibleCells().map((cell) => (
                 <TableCell key={cell.id}>

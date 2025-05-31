@@ -31,7 +31,10 @@ export const columns: ColumnDef<Match>[] = [
   {
     id: "actions",
     cell: ({ row }) => (
-      <Button variant="link" onClick={() => window.open(`/match/${row.index}`, "_blank")}>
+      <Button
+        variant="link"
+        onClick={() => window.open(`/match/${row.original.id}`, "_blank")}
+      >
         <ExternalLink className="text-white" size={16} />
       </Button>
     ),

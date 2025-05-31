@@ -1,22 +1,13 @@
-import { getIndexes, getMatchDetail, getMatches, getMatchesByIds } from "@/lib/mockApi"
-import { Filter } from "@/lib/types"
+import { getIndexes, getMatchDetail, getMatches } from "@/lib/mockApi"
 import { useQuery } from "@tanstack/react-query"
 
-export const useMatches = () => {
+export const useMatches = (filteredIds?: number[]) => {
   return useQuery({
-    queryKey: ["matches"],
-    queryFn: () => getMatches(),
+    queryKey: filteredIds ? ["matches", filteredIds] : ["matches"],
+    queryFn: () => getMatches(filteredIds),
   })
 }
 
-export const useFilteredMatches = (filter: Filter) => {
-  const combinedIndexes = [...new Set([...filter.team, ...filter.map, ...filter.player])]
-
-  return useQuery({
-    queryKey: ["matches", filter],
-    queryFn: () => getMatchesByIds(combinedIndexes),
-  })
-}
 
 export const useMatchDetail = (matchId: number) => {
   return useQuery({
