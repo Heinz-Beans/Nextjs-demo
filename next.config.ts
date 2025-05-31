@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
     domains: [
       "https://rrrrrrrrrrr-tqe5.vercel.app/",
       "https://www.hltv.org/",
+      "https://www.hltv.org/static/",
     ],
     remotePatterns: [
       {
