@@ -72,7 +72,7 @@ export const MatchesTable = memo(function MatchesTable() {
   });
 
   if (isLoading) {
-    return <LoadingSpinner className="flex justify-center p-15" />;
+    return <LoadingSpinner className="flex justify-center p-15 h-[342px]" />;
   }
   if (error) {
     return (
@@ -87,7 +87,7 @@ export const MatchesTable = memo(function MatchesTable() {
   }
 
   return (
-    <div className="w-full">
+    <div className="w-full min-h-[342px]">
       <Table>
         <TableHeader className="bg-(image:--gradient-primary-main)">
           {table.getHeaderGroups().map((headerGroup) => (
