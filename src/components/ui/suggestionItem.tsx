@@ -14,9 +14,12 @@ export const SuggestionItem = memo(function SuggestionItem({
 }) {
   const { setFilter } = useAppStore();
 
-  const addFilter = useCallback((keyName: string, matchIndexes: number[]) => {
-    setFilter(prefix, keyName, matchIndexes);
-  }, []);
+  const addFilter = useCallback(
+    (keyName: string, matchIndexes: number[]) => {
+      setFilter(prefix, keyName, matchIndexes);
+    },
+    [prefix, setFilter]
+  );
 
   return (
     <>
