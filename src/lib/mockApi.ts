@@ -8,9 +8,9 @@ matches = matches.map((match, index) => ({
 }));
 
 let indexesBuilt = false
-let mapIndex:IndexType  = {}
-let teamIndex:IndexType = {}
-let playerIndex:IndexType = {}
+const mapIndex:IndexType  = {}
+const teamIndex:IndexType = {}
+const playerIndex:IndexType = {}
 
 const buildIndexes = () => {
   matches.forEach((match, i) => {

@@ -46,6 +46,7 @@ export const useAppStore = create<AppState>()((set) => ({
     if(!current[key] || !(key in current)) {
       return state;
     }
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const { [key]: _, ...rest } = current;
     return {
       filters: {

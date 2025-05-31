@@ -34,9 +34,12 @@ export const MatchesTable = memo(function MatchesTable() {
   const [sorting, setSorting] = useState<SortingState>([]);
   const { selectedMatchId, setSelectedMatchId, filters } = useAppStore();
 
-  const setMatchCb = useCallback((index: number) => {
-    setSelectedMatchId(index);
-  }, []);
+  const setMatchCb = useCallback(
+    (index: number) => {
+      setSelectedMatchId(index);
+    },
+    [setSelectedMatchId]
+  );
 
   const combinedIds = useMemo(() => {
     if (!filters) {
