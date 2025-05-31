@@ -6,7 +6,7 @@ export function Score({ result }: { result: Match["result"] }) {
   }
 
   return (
-    <div className="flex flex-col font-bold text-primary-light items-center justify-center text-9xl">
+    <div className="flex flex-col font-bold text-primary-light items-center justify-center text-5xl sm:text-9xl">
       <span>{`${result.firstTeam} - ${result.secondTeam}`}</span>
     </div>
   );

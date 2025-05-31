@@ -5,11 +5,11 @@ import { SearchBar } from "@/components/blocks/searchbar";
 
 export default async function Home() {
   return (
-    <div className="text-white p-20">
-      <div className="w-1/3 mx-auto h-[44px] flex items-end">
+    <div className="text-white sm:p-20 p-4">
+      <div className="sm:w-2/3 w-3/4 mx-auto h-[44px] flex items-end">
         <FilterTags />
       </div>
-      <div className="py-5 w-1/3 mx-auto relative my-2">
+      <div className="py-5 sm:w-2/3 w-3/4 mx-auto relative my-2">
         <SearchBar className="absolute z-10 w-full top-0" />
       </div>
       <MatchesTable />

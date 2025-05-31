@@ -8,7 +8,7 @@ async function MatchDetailPage({ params }: { params: Promise<{ matchId: string }
   }
 
   return (
-    <div className="flex items-center w-full flex-col p-20">
+    <div className="flex items-center w-full flex-col sm:p-20 p-5">
       <Match matchId={parseInt(matchId)} />
     </div>
   );
