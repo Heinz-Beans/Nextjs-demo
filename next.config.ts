@@ -4,7 +4,8 @@ const nextConfig: NextConfig = {
   /* config options here */
   images: {
     domains: [
-      "https://rrrrrrrrrrr-tqe5.vercel.app/"
+      "https://rrrrrrrrrrr-tqe5.vercel.app/",
+      "https://www.hltv.org/",
     ],
     remotePatterns: [
       {
