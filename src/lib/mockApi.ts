@@ -3,18 +3,18 @@ import { Match } from "./types";
 
 const matches: Match[] = [...data] as Match[];
 
-type Index = Record<string, number[]>;
+export type IndexType = Record<string, number[]>;//TODO review this.. also filter ttype
 
 let indexesBuilt = false
-let mapIndex:Index  = {}
-let teamIndex:Index = {}
-let playerIndex:Index = {}
+let mapIndex:IndexType  = {}
+let teamIndex:IndexType = {}
+let playerIndex:IndexType = {}
 
 const buildIndexes = () => {
   matches.forEach((match, i) => {
-    const map = match.mapName.toLowerCase()
-    mapIndex[map] = mapIndex[map] || []
-    mapIndex[map].push(i)
+    const key = match.mapName;
+    mapIndex[key] = mapIndex[key] || []
+    mapIndex[key].push(i)
 
     const teams = [
       match.firstTeam.name,
@@ -24,14 +24,13 @@ const buildIndexes = () => {
     ].filter((t): t is string => !!t)
 
     teams.forEach(team => {
-      const key = team.toLowerCase()
-      teamIndex[key] = teamIndex[key] || []
-      teamIndex[key].push(i)
+      teamIndex[team] = teamIndex[team] || []
+      teamIndex[team].push(i)
     })
 
     const players = [...match.scoreboard.firstTeam, ...match.scoreboard.secondTeam]
     players.forEach(player => {
-      const key = player.name.toLowerCase()
+      const key = player.name
       playerIndex[key] = playerIndex[key] || []
       playerIndex[key].push(i)
     })
