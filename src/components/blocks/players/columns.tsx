@@ -20,7 +20,7 @@ export const columns: ColumnDef<Player>[] = [
           <HoverCardTrigger>
             <span className="cursor-pointer">{player.name}</span>
           </HoverCardTrigger>
-          <HoverCardContent className="bg-grey-200">
+          <HoverCardContent className="bg-grey-200 p-2">
             <PlayerDetails player={player} />
           </HoverCardContent>
         </HoverCard>
