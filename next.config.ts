@@ -3,11 +3,6 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   images: {
-    domains: [
-      "https://rrrrrrrrrrr-tqe5.vercel.app/",
-      "https://www.hltv.org/",
-      "https://www.hltv.org/static/",
-    ],
     remotePatterns: [
       {
         protocol: "https",
