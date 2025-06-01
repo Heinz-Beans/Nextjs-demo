@@ -1,14 +1,6 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
 import { LoadingSpinner } from "@/components/ui/loadingSpinner";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import {
   Table,
   TableBody,
@@ -29,6 +21,7 @@ import {
 } from "@tanstack/react-table";
 import { memo, useCallback, useMemo, useState } from "react";
 import { columns } from "./columns";
+import { TableControls } from "./tableControls";
 
 export const MatchesTable = memo(function MatchesTable() {
   const [sorting, setSorting] = useState<SortingState>([]);
@@ -120,33 +113,7 @@ export const MatchesTable = memo(function MatchesTable() {
         </TableBody>
       </Table>
       <div className="flex items-center gap-2">
-        <Button
-          onClick={() => table.previousPage()}
-          disabled={!table.getCanPreviousPage()}
-        >
-          Previous
-        </Button>
-        <Button onClick={() => table.nextPage()} disabled={!table.getCanNextPage()}>
-          Next
-        </Button>
-        <span>{`${
-          table.getState().pagination.pageIndex + 1
-        }/${table.getPageCount()}`}</span>
-        <Select
-          value={String(table.getState().pagination.pageSize)}
-          onValueChange={(value) => table.setPageSize(Number(value))}
-        >
-          <SelectTrigger>
-            <SelectValue placeholder="Show 5" />
-          </SelectTrigger>
-          <SelectContent>
-            {[5, 10, 20, 50].map((size) => (
-              <SelectItem key={size} value={size.toString()}>
-                Show {size}
-              </SelectItem>
-            ))}
-          </SelectContent>
-        </Select>
+        <TableControls table={table} paginationState={table.getState().pagination} />
       </div>
     </div>
   );

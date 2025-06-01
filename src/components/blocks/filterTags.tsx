@@ -7,6 +7,9 @@ import { CustomBadge } from "../ui/customBadge";
 
 export const FilterTags = memo(function FilterTags() {
   const { filters, removeFilter } = useAppStore();
+  if (!filters || Object.keys(filters).length === 0) {
+    return null;
+  }
 
   return (
     <div className="flex gap-1 flex-wrap">
