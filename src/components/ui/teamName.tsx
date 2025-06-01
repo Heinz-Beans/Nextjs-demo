@@ -13,7 +13,7 @@ export function TeamName({ team, reverse }: { team: Team; reverse?: boolean }) {
     >
       <div className="bg-grey-200 sm:w-[80px] sm:h-[80px] w-[40px] h-[40px]">
         {team.logo ? (
-          <Image src={team.logo} alt="logo" width={80} height={80} unoptimized />
+          <Image src={team.logo} alt="logo" width={80} height={80} />
         ) : (
           <ImageOff size={80} className="sm:w-[80px] sm:h-[80px] w-[40px] h-[40px]" />
         )}
