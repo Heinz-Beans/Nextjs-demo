@@ -9,7 +9,9 @@ export const PlayerDetails = memo(function PlayerDetails({ player }: { player: P
       <Avatar className="w-[80px] h-[80px]">
         <AvatarImage src={player.avatar} alt={`${player.name}'s avatar`} />
       </Avatar>
-      <div>{true && <p className="text-sm text-gray-500 mt-2">{player.bio}</p>}</div>
+      <div>
+        {player.bio && <p className="text-sm text-gray-500 mt-2">{player.bio}</p>}
+      </div>
     </div>
   );
 });

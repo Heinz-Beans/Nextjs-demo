@@ -28,7 +28,6 @@ export type Team = {
   logo?: string;
 };
 
-
 export type IndexType = Record<string, number[]>;
 
 export type FilterObj = {

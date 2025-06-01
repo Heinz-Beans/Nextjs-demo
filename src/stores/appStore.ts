@@ -1,7 +1,6 @@
 import { FilterType, IndexType } from "@/lib/types";
 import { create } from "zustand";
 
-
 interface AppState {
   selectedMatchId: number;
   filters: {

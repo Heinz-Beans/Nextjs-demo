@@ -4,7 +4,11 @@ async function MatchDetailPage({ params }: { params: Promise<{ matchId: string }
   const { matchId } = await params;
 
   if (!matchId || isNaN(parseInt(matchId))) {
-    return <div>Match ID is required</div>;
+    return (
+      <span className="flex justify-center text-error-main text-bold sm:text-4xl text-l p-20">
+        Match ID is required
+      </span>
+    );
   }
 
   return (
