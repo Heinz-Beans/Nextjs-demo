@@ -1,4 +1,6 @@
-# Live demo
+# Simple nextjs webapp demo for Counter Strike matches.
+
+## Live demo
 
 https://rrrrrrrrrrr-ten.vercel.app/
 
